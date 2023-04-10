@@ -1,0 +1,835 @@
+city,team1,team2,toss_winner,toss_decision,winner,eliminator,method
+Bangalore,Royal Challengers Bangalore,Kolkata Knight Riders,Royal Challengers Bangalore,field,Kolkata Knight Riders,N,normal
+Mohali,Punjab Kings,Chennai Super Kings,Chennai Super Kings,bat,Chennai Super Kings,N,normal
+Delhi,Delhi Capitals,Rajasthan Royals,Rajasthan Royals,bat,Delhi Capitals,N,normal
+Mumbai,Mumbai Indians,Royal Challengers Bangalore,Mumbai Indians,bat,Royal Challengers Bangalore,N,normal
+Kolkata,Kolkata Knight Riders,Sunrisers Hyderabad,Sunrisers Hyderabad,bat,Kolkata Knight Riders,N,normal
+Jaipur,Rajasthan Royals,Punjab Kings,Punjab Kings,bat,Rajasthan Royals,N,normal
+Hyderabad,Sunrisers Hyderabad,Delhi Capitals,Sunrisers Hyderabad,bat,Delhi Capitals,N,normal
+Chennai,Chennai Super Kings,Mumbai Indians,Mumbai Indians,field,Chennai Super Kings,N,normal
+Hyderabad,Sunrisers Hyderabad,Rajasthan Royals,Rajasthan Royals,field,Rajasthan Royals,N,normal
+Mohali,Punjab Kings,Mumbai Indians,Mumbai Indians,field,Punjab Kings,N,normal
+Bangalore,Royal Challengers Bangalore,Rajasthan Royals,Rajasthan Royals,field,Rajasthan Royals,N,normal
+Chennai,Chennai Super Kings,Kolkata Knight Riders,Kolkata Knight Riders,bat,Chennai Super Kings,N,normal
+Mumbai,Mumbai Indians,Sunrisers Hyderabad,Sunrisers Hyderabad,field,Sunrisers Hyderabad,N,normal
+Mohali,Punjab Kings,Delhi Capitals,Delhi Capitals,bat,Punjab Kings,N,normal
+Bangalore,Royal Challengers Bangalore,Chennai Super Kings,Chennai Super Kings,bat,Chennai Super Kings,N,normal
+Kolkata,Kolkata Knight Riders,Mumbai Indians,Kolkata Knight Riders,bat,Mumbai Indians,N,normal
+Delhi,Delhi Capitals,Royal Challengers Bangalore,Royal Challengers Bangalore,field,Delhi Capitals,N,normal
+Hyderabad,Sunrisers Hyderabad,Punjab Kings,Punjab Kings,field,Punjab Kings,N,normal
+Jaipur,Rajasthan Royals,Kolkata Knight Riders,Rajasthan Royals,bat,Rajasthan Royals,N,normal
+Chennai,Chennai Super Kings,Delhi Capitals,Chennai Super Kings,bat,Delhi Capitals,N,normal
+Hyderabad,Sunrisers Hyderabad,Royal Challengers Bangalore,Sunrisers Hyderabad,bat,Royal Challengers Bangalore,N,normal
+Mohali,Punjab Kings,Kolkata Knight Riders,Punjab Kings,bat,Punjab Kings,N,normal
+Mumbai,Mumbai Indians,Delhi Capitals,Delhi Capitals,field,Mumbai Indians,N,normal
+Jaipur,Rajasthan Royals,Chennai Super Kings,Chennai Super Kings,bat,Rajasthan Royals,N,normal
+Bangalore,Royal Challengers Bangalore,Punjab Kings,Punjab Kings,field,Punjab Kings,N,normal
+Chennai,Chennai Super Kings,Sunrisers Hyderabad,Sunrisers Hyderabad,field,Sunrisers Hyderabad,N,normal
+Mumbai,Mumbai Indians,Rajasthan Royals,Mumbai Indians,field,Mumbai Indians,N,normal
+Delhi,Delhi Capitals,Chennai Super Kings,Chennai Super Kings,field,Chennai Super Kings,N,normal
+Kolkata,Kolkata Knight Riders,Royal Challengers Bangalore,Kolkata Knight Riders,bat,Kolkata Knight Riders,N,normal
+Jaipur,Rajasthan Royals,Sunrisers Hyderabad,Rajasthan Royals,field,Rajasthan Royals,N,normal
+Bangalore,Royal Challengers Bangalore,Mumbai Indians,Mumbai Indians,field,Mumbai Indians,N,normal
+Chennai,Chennai Super Kings,Punjab Kings,Punjab Kings,field,Chennai Super Kings,N,normal
+Hyderabad,Sunrisers Hyderabad,Kolkata Knight Riders,Kolkata Knight Riders,bat,Kolkata Knight Riders,N,normal
+Jaipur,Rajasthan Royals,Delhi Capitals,Rajasthan Royals,field,Rajasthan Royals,N,normal
+Mohali,Punjab Kings,Royal Challengers Bangalore,Royal Challengers Bangalore,bat,Punjab Kings,N,normal
+Kolkata,Kolkata Knight Riders,Delhi Capitals,Kolkata Knight Riders,bat,Kolkata Knight Riders,N,normal
+Mumbai,Mumbai Indians,Chennai Super Kings,Mumbai Indians,field,Mumbai Indians,N,normal
+Mohali,Punjab Kings,Rajasthan Royals,Rajasthan Royals,field,Punjab Kings,N,normal
+Delhi,Delhi Capitals,Sunrisers Hyderabad,Sunrisers Hyderabad,field,Delhi Capitals,N,normal
+Mumbai,Mumbai Indians,Kolkata Knight Riders,Mumbai Indians,field,Mumbai Indians,N,normal
+Delhi,Delhi Capitals,Punjab Kings,Delhi Capitals,bat,Punjab Kings,N,D/L
+Jaipur,Rajasthan Royals,Royal Challengers Bangalore,Royal Challengers Bangalore,field,Rajasthan Royals,N,normal
+Hyderabad,Sunrisers Hyderabad,Mumbai Indians,Sunrisers Hyderabad,field,Mumbai Indians,N,normal
+Kolkata,Kolkata Knight Riders,Chennai Super Kings,Kolkata Knight Riders,bat,Chennai Super Kings,N,D/L
+Bangalore,Royal Challengers Bangalore,Delhi Capitals,Delhi Capitals,field,Delhi Capitals,N,normal
+Kolkata,Kolkata Knight Riders,Rajasthan Royals,Rajasthan Royals,field,Rajasthan Royals,N,normal
+Mumbai,Mumbai Indians,Punjab Kings,Mumbai Indians,field,Punjab Kings,N,normal
+Chennai,Chennai Super Kings,Royal Challengers Bangalore,Royal Challengers Bangalore,bat,Royal Challengers Bangalore,N,normal
+Mohali,Punjab Kings,Sunrisers Hyderabad,Punjab Kings,field,Punjab Kings,N,normal
+Delhi,Delhi Capitals,Mumbai Indians,Delhi Capitals,field,Delhi Capitals,N,normal
+Chennai,Chennai Super Kings,Rajasthan Royals,Rajasthan Royals,bat,Rajasthan Royals,N,normal
+Bangalore,Royal Challengers Bangalore,Sunrisers Hyderabad,Sunrisers Hyderabad,field,Royal Challengers Bangalore,N,normal
+Kolkata,Kolkata Knight Riders,Punjab Kings,Punjab Kings,bat,Kolkata Knight Riders,N,normal
+Jaipur,Rajasthan Royals,Mumbai Indians,Rajasthan Royals,field,Rajasthan Royals,N,normal
+Hyderabad,Sunrisers Hyderabad,Chennai Super Kings,Sunrisers Hyderabad,bat,Chennai Super Kings,N,normal
+Mumbai,Delhi Capitals,Rajasthan Royals,Delhi Capitals,field,Rajasthan Royals,N,normal
+Mumbai,Chennai Super Kings,Punjab Kings,Punjab Kings,bat,Chennai Super Kings,N,normal
+Mumbai,Chennai Super Kings,Rajasthan Royals,Rajasthan Royals,field,Rajasthan Royals,N,normal
+NA,Chennai Super Kings,Mumbai Indians,Chennai Super Kings,field,Mumbai Indians,N,normal
+NA,Royal Challengers Bangalore,Rajasthan Royals,Royal Challengers Bangalore,bat,Royal Challengers Bangalore,N,normal
+NA,Delhi Capitals,Punjab Kings,Delhi Capitals,field,Delhi Capitals,N,D/L
+NA,Sunrisers Hyderabad,Kolkata Knight Riders,Kolkata Knight Riders,bat,Sunrisers Hyderabad,N,normal
+NA,Royal Challengers Bangalore,Chennai Super Kings,Chennai Super Kings,bat,Chennai Super Kings,N,normal
+NA,Punjab Kings,Kolkata Knight Riders,Kolkata Knight Riders,field,Kolkata Knight Riders,N,D/L
+NA,Royal Challengers Bangalore,Sunrisers Hyderabad,Sunrisers Hyderabad,bat,Sunrisers Hyderabad,N,normal
+NA,Chennai Super Kings,Delhi Capitals,Delhi Capitals,bat,Delhi Capitals,N,normal
+NA,Kolkata Knight Riders,Rajasthan Royals,Kolkata Knight Riders,field,Rajasthan Royals,Y,normal
+NA,Royal Challengers Bangalore,Punjab Kings,Royal Challengers Bangalore,bat,Punjab Kings,N,normal
+NA,Sunrisers Hyderabad,Mumbai Indians,Sunrisers Hyderabad,bat,Sunrisers Hyderabad,N,normal
+NA,Royal Challengers Bangalore,Delhi Capitals,Royal Challengers Bangalore,bat,Delhi Capitals,N,normal
+NA,Punjab Kings,Rajasthan Royals,Punjab Kings,bat,Punjab Kings,N,normal
+NA,Chennai Super Kings,Sunrisers Hyderabad,Sunrisers Hyderabad,field,Sunrisers Hyderabad,N,normal
+NA,Kolkata Knight Riders,Mumbai Indians,Mumbai Indians,bat,Mumbai Indians,N,normal
+NA,Delhi Capitals,Rajasthan Royals,Delhi Capitals,bat,Rajasthan Royals,N,normal
+NA,Royal Challengers Bangalore,Kolkata Knight Riders,Kolkata Knight Riders,bat,Royal Challengers Bangalore,N,normal
+NA,Punjab Kings,Mumbai Indians,Punjab Kings,bat,Punjab Kings,N,normal
+NA,Sunrisers Hyderabad,Delhi Capitals,Delhi Capitals,field,Delhi Capitals,N,normal
+NA,Chennai Super Kings,Rajasthan Royals,Rajasthan Royals,field,Chennai Super Kings,N,normal
+NA,Kolkata Knight Riders,Mumbai Indians,Mumbai Indians,bat,Mumbai Indians,N,normal
+NA,Royal Challengers Bangalore,Punjab Kings,Royal Challengers Bangalore,bat,Royal Challengers Bangalore,N,normal
+NA,Sunrisers Hyderabad,Rajasthan Royals,Sunrisers Hyderabad,bat,Rajasthan Royals,N,normal
+NA,Chennai Super Kings,Delhi Capitals,Delhi Capitals,field,Chennai Super Kings,N,normal
+NA,Punjab Kings,Kolkata Knight Riders,Kolkata Knight Riders,bat,Punjab Kings,N,normal
+NA,Royal Challengers Bangalore,Mumbai Indians,Mumbai Indians,bat,Royal Challengers Bangalore,N,normal
+NA,Chennai Super Kings,Sunrisers Hyderabad,Chennai Super Kings,bat,Chennai Super Kings,N,normal
+NA,Punjab Kings,Rajasthan Royals,Punjab Kings,field,Rajasthan Royals,N,normal
+NA,Delhi Capitals,Kolkata Knight Riders,Kolkata Knight Riders,bat,Delhi Capitals,N,normal
+NA,Sunrisers Hyderabad,Mumbai Indians,Sunrisers Hyderabad,bat,Sunrisers Hyderabad,N,normal
+NA,Royal Challengers Bangalore,Rajasthan Royals,Rajasthan Royals,field,Rajasthan Royals,N,normal
+NA,Chennai Super Kings,Punjab Kings,Chennai Super Kings,bat,Chennai Super Kings,N,D/L
+NA,Delhi Capitals,Mumbai Indians,Mumbai Indians,bat,Delhi Capitals,N,normal
+NA,Sunrisers Hyderabad,Punjab Kings,Punjab Kings,field,Punjab Kings,N,normal
+NA,Chennai Super Kings,Rajasthan Royals,Rajasthan Royals,bat,Chennai Super Kings,N,normal
+NA,Royal Challengers Bangalore,Mumbai Indians,Mumbai Indians,bat,Mumbai Indians,N,normal
+NA,Delhi Capitals,Kolkata Knight Riders,Delhi Capitals,field,Delhi Capitals,N,normal
+NA,Sunrisers Hyderabad,Rajasthan Royals,Sunrisers Hyderabad,bat,Sunrisers Hyderabad,N,normal
+NA,Royal Challengers Bangalore,Kolkata Knight Riders,Royal Challengers Bangalore,field,Royal Challengers Bangalore,N,normal
+NA,Punjab Kings,Mumbai Indians,Punjab Kings,bat,Mumbai Indians,N,normal
+NA,Sunrisers Hyderabad,Delhi Capitals,Sunrisers Hyderabad,field,Delhi Capitals,N,normal
+NA,Royal Challengers Bangalore,Chennai Super Kings,Chennai Super Kings,bat,Royal Challengers Bangalore,N,normal
+NA,Mumbai Indians,Rajasthan Royals,Rajasthan Royals,bat,Rajasthan Royals,N,normal
+NA,Delhi Capitals,Punjab Kings,Punjab Kings,field,Punjab Kings,N,normal
+NA,Chennai Super Kings,Mumbai Indians,Mumbai Indians,bat,Chennai Super Kings,N,normal
+NA,Sunrisers Hyderabad,Kolkata Knight Riders,Sunrisers Hyderabad,field,Sunrisers Hyderabad,N,normal
+NA,Sunrisers Hyderabad,Punjab Kings,Sunrisers Hyderabad,field,Punjab Kings,N,normal
+NA,Delhi Capitals,Rajasthan Royals,Delhi Capitals,bat,Delhi Capitals,N,normal
+NA,Chennai Super Kings,Kolkata Knight Riders,Chennai Super Kings,bat,Kolkata Knight Riders,N,normal
+NA,Royal Challengers Bangalore,Delhi Capitals,Delhi Capitals,bat,Royal Challengers Bangalore,N,normal
+NA,Kolkata Knight Riders,Rajasthan Royals,Kolkata Knight Riders,field,Kolkata Knight Riders,N,normal
+NA,Chennai Super Kings,Punjab Kings,Chennai Super Kings,bat,Chennai Super Kings,N,normal
+NA,Delhi Capitals,Mumbai Indians,Delhi Capitals,field,Delhi Capitals,N,normal
+NA,Royal Challengers Bangalore,Sunrisers Hyderabad,Royal Challengers Bangalore,bat,Royal Challengers Bangalore,N,normal
+NA,Delhi Capitals,Sunrisers Hyderabad,Sunrisers Hyderabad,field,Sunrisers Hyderabad,N,normal
+NA,Royal Challengers Bangalore,Chennai Super Kings,Royal Challengers Bangalore,field,Royal Challengers Bangalore,N,normal
+NA,Royal Challengers Bangalore,Sunrisers Hyderabad,Royal Challengers Bangalore,field,Sunrisers Hyderabad,N,normal
+Mumbai,Sunrisers Hyderabad,Kolkata Knight Riders,Sunrisers Hyderabad,field,Kolkata Knight Riders,N,normal
+Mumbai,Mumbai Indians,Rajasthan Royals,Mumbai Indians,bat,Mumbai Indians,N,normal
+Mohali,Punjab Kings,Delhi Capitals,Delhi Capitals,field,Delhi Capitals,N,normal
+Kolkata,Kolkata Knight Riders,Royal Challengers Bangalore,Kolkata Knight Riders,field,Kolkata Knight Riders,N,normal
+Chennai,Chennai Super Kings,Sunrisers Hyderabad,Sunrisers Hyderabad,bat,Sunrisers Hyderabad,N,normal
+Ahmedabad,Rajasthan Royals,Delhi Capitals,Delhi Capitals,field,Delhi Capitals,N,normal
+Bangalore,Royal Challengers Bangalore,Punjab Kings,Punjab Kings,bat,Royal Challengers Bangalore,N,normal
+Kolkata,Kolkata Knight Riders,Chennai Super Kings,Chennai Super Kings,bat,Chennai Super Kings,N,normal
+Delhi,Delhi Capitals,Mumbai Indians,Delhi Capitals,field,Mumbai Indians,N,normal
+Bangalore,Royal Challengers Bangalore,Rajasthan Royals,Royal Challengers Bangalore,field,Royal Challengers Bangalore,N,normal
+Delhi,Delhi Capitals,Chennai Super Kings,Delhi Capitals,bat,Chennai Super Kings,N,normal
+NA,Sunrisers Hyderabad,Punjab Kings,Punjab Kings,field,Sunrisers Hyderabad,N,normal
+Ahmedabad,Rajasthan Royals,Kolkata Knight Riders,Rajasthan Royals,bat,Rajasthan Royals,N,normal
+Mumbai,Mumbai Indians,Royal Challengers Bangalore,Mumbai Indians,bat,Royal Challengers Bangalore,N,normal
+NA,Sunrisers Hyderabad,Delhi Capitals,Sunrisers Hyderabad,bat,Sunrisers Hyderabad,N,normal
+Chennai,Chennai Super Kings,Punjab Kings,Chennai Super Kings,field,Punjab Kings,Y,normal
+Mumbai,Mumbai Indians,Kolkata Knight Riders,Kolkata Knight Riders,bat,Mumbai Indians,N,normal
+Bangalore,Royal Challengers Bangalore,Chennai Super Kings,Chennai Super Kings,field,Royal Challengers Bangalore,N,normal
+Mohali,Punjab Kings,Rajasthan Royals,Punjab Kings,field,Rajasthan Royals,N,normal
+Mumbai,Mumbai Indians,Chennai Super Kings,Mumbai Indians,field,Mumbai Indians,N,normal
+Ahmedabad,Rajasthan Royals,Sunrisers Hyderabad,Sunrisers Hyderabad,bat,Rajasthan Royals,N,normal
+Mohali,Punjab Kings,Kolkata Knight Riders,Kolkata Knight Riders,bat,Kolkata Knight Riders,N,normal
+Bangalore,Royal Challengers Bangalore,Delhi Capitals,Royal Challengers Bangalore,field,Delhi Capitals,N,normal
+Ahmedabad,Rajasthan Royals,Chennai Super Kings,Rajasthan Royals,bat,Rajasthan Royals,N,normal
+Mumbai,Sunrisers Hyderabad,Mumbai Indians,Sunrisers Hyderabad,field,Mumbai Indians,N,normal
+Delhi,Delhi Capitals,Kolkata Knight Riders,Delhi Capitals,bat,Delhi Capitals,N,normal
+Mumbai,Mumbai Indians,Punjab Kings,Mumbai Indians,field,Mumbai Indians,N,normal
+Chennai,Chennai Super Kings,Royal Challengers Bangalore,Royal Challengers Bangalore,bat,Chennai Super Kings,N,normal
+Delhi,Delhi Capitals,Rajasthan Royals,Delhi Capitals,bat,Delhi Capitals,N,normal
+Kolkata,Kolkata Knight Riders,Sunrisers Hyderabad,Kolkata Knight Riders,bat,Kolkata Knight Riders,N,normal
+Mohali,Punjab Kings,Royal Challengers Bangalore,Punjab Kings,bat,Royal Challengers Bangalore,N,normal
+Chennai,Chennai Super Kings,Rajasthan Royals,Chennai Super Kings,bat,Chennai Super Kings,N,normal
+Mumbai,Mumbai Indians,Sunrisers Hyderabad,Mumbai Indians,bat,Mumbai Indians,N,normal
+Kolkata,Kolkata Knight Riders,Punjab Kings,Kolkata Knight Riders,bat,Punjab Kings,N,normal
+Delhi,Delhi Capitals,Royal Challengers Bangalore,Delhi Capitals,bat,Delhi Capitals,N,normal
+NA,Sunrisers Hyderabad,Rajasthan Royals,Rajasthan Royals,bat,Rajasthan Royals,N,normal
+Chennai,Chennai Super Kings,Mumbai Indians,Chennai Super Kings,bat,Chennai Super Kings,N,normal
+Jaipur,Rajasthan Royals,Punjab Kings,Punjab Kings,bat,Rajasthan Royals,N,normal
+Kolkata,Kolkata Knight Riders,Delhi Capitals,Kolkata Knight Riders,bat,Kolkata Knight Riders,N,normal
+Bangalore,Royal Challengers Bangalore,Sunrisers Hyderabad,Sunrisers Hyderabad,field,Sunrisers Hyderabad,N,normal
+Mohali,Punjab Kings,Mumbai Indians,Mumbai Indians,bat,Punjab Kings,N,normal
+NA,Sunrisers Hyderabad,Chennai Super Kings,Chennai Super Kings,bat,Sunrisers Hyderabad,N,normal
+Bangalore,Royal Challengers Bangalore,Kolkata Knight Riders,Royal Challengers Bangalore,field,Royal Challengers Bangalore,N,normal
+Delhi,Delhi Capitals,Punjab Kings,Delhi Capitals,bat,Punjab Kings,N,normal
+Jaipur,Rajasthan Royals,Mumbai Indians,Rajasthan Royals,field,Mumbai Indians,N,normal
+NA,Sunrisers Hyderabad,Royal Challengers Bangalore,Royal Challengers Bangalore,field,Sunrisers Hyderabad,N,normal
+Mumbai,Mumbai Indians,Delhi Capitals,Mumbai Indians,bat,Mumbai Indians,N,normal
+Chennai,Chennai Super Kings,Kolkata Knight Riders,Kolkata Knight Riders,bat,Chennai Super Kings,N,normal
+Jaipur,Rajasthan Royals,Royal Challengers Bangalore,Rajasthan Royals,bat,Royal Challengers Bangalore,N,normal
+Chennai,Chennai Super Kings,Delhi Capitals,Chennai Super Kings,bat,Delhi Capitals,N,normal
+Dharamsala,Punjab Kings,Sunrisers Hyderabad,Sunrisers Hyderabad,field,Sunrisers Hyderabad,N,normal
+Bangalore,Royal Challengers Bangalore,Mumbai Indians,Royal Challengers Bangalore,field,Mumbai Indians,N,normal
+Kolkata,Kolkata Knight Riders,Rajasthan Royals,Rajasthan Royals,bat,Kolkata Knight Riders,N,normal
+Dharamsala,Punjab Kings,Chennai Super Kings,Chennai Super Kings,field,Chennai Super Kings,N,normal
+Delhi,Delhi Capitals,Sunrisers Hyderabad,Sunrisers Hyderabad,bat,Sunrisers Hyderabad,N,normal
+Kolkata,Kolkata Knight Riders,Mumbai Indians,Mumbai Indians,bat,Kolkata Knight Riders,N,normal
+Mumbai,Royal Challengers Bangalore,Mumbai Indians,Mumbai Indians,bat,Mumbai Indians,N,normal
+Mumbai,Chennai Super Kings,Sunrisers Hyderabad,Chennai Super Kings,bat,Chennai Super Kings,N,normal
+Mumbai,Royal Challengers Bangalore,Sunrisers Hyderabad,Sunrisers Hyderabad,bat,Royal Challengers Bangalore,N,normal
+Mumbai,Chennai Super Kings,Mumbai Indians,Chennai Super Kings,bat,Chennai Super Kings,N,normal
+Chennai,Chennai Super Kings,Kolkata Knight Riders,Chennai Super Kings,bat,Chennai Super Kings,N,normal
+Hyderabad,Sunrisers Hyderabad,Rajasthan Royals,Rajasthan Royals,field,Rajasthan Royals,N,normal
+Delhi,Delhi Capitals,Mumbai Indians,Delhi Capitals,bat,Mumbai Indians,N,normal
+Kolkata,Kolkata Knight Riders,Sunrisers Hyderabad,Kolkata Knight Riders,bat,Kolkata Knight Riders,N,normal
+Jaipur,Rajasthan Royals,Delhi Capitals,Delhi Capitals,bat,Rajasthan Royals,N,normal
+Bangalore,Royal Challengers Bangalore,Mumbai Indians,Mumbai Indians,field,Mumbai Indians,N,normal
+Mohali,Punjab Kings,Chennai Super Kings,Punjab Kings,field,Punjab Kings,N,normal
+Hyderabad,Sunrisers Hyderabad,Royal Challengers Bangalore,Royal Challengers Bangalore,field,Sunrisers Hyderabad,N,normal
+Jaipur,Rajasthan Royals,Kolkata Knight Riders,Kolkata Knight Riders,field,Kolkata Knight Riders,N,normal
+Chennai,Chennai Super Kings,Royal Challengers Bangalore,Chennai Super Kings,bat,Chennai Super Kings,N,normal
+Hyderabad,Sunrisers Hyderabad,Punjab Kings,Punjab Kings,field,Punjab Kings,N,normal
+Kolkata,Kolkata Knight Riders,Rajasthan Royals,Kolkata Knight Riders,field,Kolkata Knight Riders,N,normal
+Delhi,Delhi Capitals,Sunrisers Hyderabad,Sunrisers Hyderabad,bat,Sunrisers Hyderabad,N,normal
+Mohali,Punjab Kings,Rajasthan Royals,Rajasthan Royals,field,Punjab Kings,N,normal
+Mumbai,Mumbai Indians,Chennai Super Kings,Chennai Super Kings,field,Mumbai Indians,N,normal
+Kolkata,Kolkata Knight Riders,Royal Challengers Bangalore,Royal Challengers Bangalore,field,Royal Challengers Bangalore,N,normal
+Delhi,Delhi Capitals,Punjab Kings,Punjab Kings,field,Delhi Capitals,N,normal
+Hyderabad,Sunrisers Hyderabad,Mumbai Indians,Sunrisers Hyderabad,field,Mumbai Indians,N,normal
+Delhi,Delhi Capitals,Royal Challengers Bangalore,Royal Challengers Bangalore,field,Royal Challengers Bangalore,N,normal
+Delhi,Delhi Capitals,Kolkata Knight Riders,Delhi Capitals,field,Kolkata Knight Riders,N,normal
+Jaipur,Rajasthan Royals,Mumbai Indians,Rajasthan Royals,field,Rajasthan Royals,N,normal
+Kolkata,Kolkata Knight Riders,Punjab Kings,Kolkata Knight Riders,field,Kolkata Knight Riders,N,normal
+Chennai,Chennai Super Kings,Sunrisers Hyderabad,Chennai Super Kings,bat,Chennai Super Kings,N,normal
+Mumbai,Mumbai Indians,Punjab Kings,Punjab Kings,field,Mumbai Indians,N,normal
+Hyderabad,Sunrisers Hyderabad,Kolkata Knight Riders,Sunrisers Hyderabad,field,Kolkata Knight Riders,N,normal
+Chennai,Chennai Super Kings,Rajasthan Royals,Rajasthan Royals,bat,Chennai Super Kings,N,normal
+Hyderabad,Sunrisers Hyderabad,Delhi Capitals,Delhi Capitals,field,Delhi Capitals,N,normal
+Bangalore,Royal Challengers Bangalore,Punjab Kings,Punjab Kings,field,Royal Challengers Bangalore,N,normal
+Kolkata,Kolkata Knight Riders,Chennai Super Kings,Chennai Super Kings,bat,Kolkata Knight Riders,N,D/L
+Mumbai,Mumbai Indians,Delhi Capitals,Delhi Capitals,field,Mumbai Indians,N,normal
+Jaipur,Rajasthan Royals,Chennai Super Kings,Rajasthan Royals,field,Chennai Super Kings,N,normal
+Mohali,Punjab Kings,Mumbai Indians,Mumbai Indians,field,Punjab Kings,N,normal
+Jaipur,Rajasthan Royals,Royal Challengers Bangalore,Royal Challengers Bangalore,field,Royal Challengers Bangalore,N,normal
+Chennai,Chennai Super Kings,Delhi Capitals,Chennai Super Kings,bat,Chennai Super Kings,N,normal
+Bangalore,Royal Challengers Bangalore,Kolkata Knight Riders,Royal Challengers Bangalore,field,Royal Challengers Bangalore,N,D/L
+Mumbai,Mumbai Indians,Sunrisers Hyderabad,Sunrisers Hyderabad,bat,Sunrisers Hyderabad,N,normal
+Dharamsala,Punjab Kings,Delhi Capitals,Delhi Capitals,field,Punjab Kings,N,normal
+Dharamsala,Punjab Kings,Royal Challengers Bangalore,Punjab Kings,bat,Punjab Kings,N,normal
+Mumbai,Mumbai Indians,Rajasthan Royals,Mumbai Indians,bat,Rajasthan Royals,N,normal
+Dharamsala,Punjab Kings,Sunrisers Hyderabad,Punjab Kings,field,Sunrisers Hyderabad,N,normal
+Bangalore,Royal Challengers Bangalore,Chennai Super Kings,Royal Challengers Bangalore,field,Royal Challengers Bangalore,N,normal
+Kolkata,Kolkata Knight Riders,Mumbai Indians,Mumbai Indians,field,Mumbai Indians,N,normal
+Mumbai,Royal Challengers Bangalore,Chennai Super Kings,Chennai Super Kings,field,Chennai Super Kings,N,normal
+Mumbai,Mumbai Indians,Kolkata Knight Riders,Mumbai Indians,field,Mumbai Indians,N,normal
+Chennai,Royal Challengers Bangalore,Mumbai Indians,Mumbai Indians,field,Royal Challengers Bangalore,N,normal
+Chennai,Chennai Super Kings,Royal Challengers Bangalore,Chennai Super Kings,bat,Chennai Super Kings,N,normal
+Chennai,Chennai Super Kings,Mumbai Indians,Mumbai Indians,field,Mumbai Indians,N,normal
+Kolkata,Kolkata Knight Riders,Delhi Capitals,Delhi Capitals,field,Delhi Capitals,N,normal
+Jaipur,Rajasthan Royals,Punjab Kings,Punjab Kings,field,Rajasthan Royals,N,normal
+Bangalore,Royal Challengers Bangalore,Delhi Capitals,Delhi Capitals,field,Royal Challengers Bangalore,N,normal
+NA,Sunrisers Hyderabad,Chennai Super Kings,Sunrisers Hyderabad,field,Chennai Super Kings,N,normal
+Jaipur,Rajasthan Royals,Kolkata Knight Riders,Kolkata Knight Riders,field,Rajasthan Royals,N,normal
+NA,Sunrisers Hyderabad,Mumbai Indians,Sunrisers Hyderabad,bat,Mumbai Indians,N,normal
+Bangalore,Royal Challengers Bangalore,Kolkata Knight Riders,Royal Challengers Bangalore,field,Kolkata Knight Riders,N,normal
+Delhi,Delhi Capitals,Chennai Super Kings,Delhi Capitals,field,Delhi Capitals,N,normal
+Mumbai,Mumbai Indians,Rajasthan Royals,Rajasthan Royals,field,Mumbai Indians,N,normal
+Chennai,Chennai Super Kings,Royal Challengers Bangalore,Royal Challengers Bangalore,bat,Chennai Super Kings,N,normal
+Kolkata,Kolkata Knight Riders,Rajasthan Royals,Rajasthan Royals,bat,Kolkata Knight Riders,N,normal
+Delhi,Delhi Capitals,Sunrisers Hyderabad,Sunrisers Hyderabad,bat,Delhi Capitals,N,normal
+Kolkata,Kolkata Knight Riders,Punjab Kings,Kolkata Knight Riders,field,Punjab Kings,N,normal
+Bangalore,Royal Challengers Bangalore,Rajasthan Royals,Rajasthan Royals,bat,Rajasthan Royals,N,normal
+Mumbai,Mumbai Indians,Delhi Capitals,Delhi Capitals,field,Delhi Capitals,N,normal
+Jaipur,Rajasthan Royals,Sunrisers Hyderabad,Sunrisers Hyderabad,bat,Rajasthan Royals,N,normal
+Mohali,Punjab Kings,Kolkata Knight Riders,Punjab Kings,bat,Kolkata Knight Riders,N,normal
+Hyderabad,Sunrisers Hyderabad,Delhi Capitals,Sunrisers Hyderabad,bat,Delhi Capitals,N,normal
+Mohali,Punjab Kings,Royal Challengers Bangalore,Royal Challengers Bangalore,field,Royal Challengers Bangalore,N,normal
+Chennai,Chennai Super Kings,Rajasthan Royals,Rajasthan Royals,bat,Chennai Super Kings,N,normal
+Mumbai,Mumbai Indians,Punjab Kings,Mumbai Indians,bat,Punjab Kings,N,normal
+NA,Sunrisers Hyderabad,Kolkata Knight Riders,Kolkata Knight Riders,field,Kolkata Knight Riders,N,normal
+Jaipur,Rajasthan Royals,Royal Challengers Bangalore,Rajasthan Royals,field,Royal Challengers Bangalore,N,normal
+Mohali,Punjab Kings,Mumbai Indians,Punjab Kings,bat,Mumbai Indians,N,normal
+Delhi,Delhi Capitals,Mumbai Indians,Mumbai Indians,field,Delhi Capitals,N,normal
+Chennai,Chennai Super Kings,Punjab Kings,Punjab Kings,bat,Punjab Kings,N,normal
+Kolkata,Kolkata Knight Riders,Royal Challengers Bangalore,Kolkata Knight Riders,bat,Kolkata Knight Riders,N,normal
+Delhi,Delhi Capitals,Rajasthan Royals,Delhi Capitals,bat,Delhi Capitals,N,normal
+Mumbai,Mumbai Indians,Sunrisers Hyderabad,Mumbai Indians,field,Mumbai Indians,N,normal
+Chennai,Chennai Super Kings,Kolkata Knight Riders,Chennai Super Kings,bat,Kolkata Knight Riders,N,normal
+Jaipur,Rajasthan Royals,Delhi Capitals,Rajasthan Royals,bat,Delhi Capitals,N,normal
+Bangalore,Royal Challengers Bangalore,Punjab Kings,Punjab Kings,field,Punjab Kings,N,normal
+Chennai,Chennai Super Kings,Sunrisers Hyderabad,Chennai Super Kings,bat,Chennai Super Kings,N,normal
+Mohali,Punjab Kings,Rajasthan Royals,Rajasthan Royals,bat,Rajasthan Royals,N,normal
+Mumbai,Mumbai Indians,Chennai Super Kings,Mumbai Indians,field,Mumbai Indians,N,normal
+Bangalore,Royal Challengers Bangalore,Sunrisers Hyderabad,Royal Challengers Bangalore,field,Royal Challengers Bangalore,N,normal
+Delhi,Delhi Capitals,Kolkata Knight Riders,Delhi Capitals,bat,Kolkata Knight Riders,N,normal
+Hyderabad,Sunrisers Hyderabad,Punjab Kings,Sunrisers Hyderabad,field,Punjab Kings,N,normal
+Mumbai,Mumbai Indians,Royal Challengers Bangalore,Royal Challengers Bangalore,field,Royal Challengers Bangalore,N,normal
+Jaipur,Rajasthan Royals,Chennai Super Kings,Chennai Super Kings,field,Chennai Super Kings,N,normal
+Kolkata,Kolkata Knight Riders,Mumbai Indians,Mumbai Indians,bat,Mumbai Indians,N,normal
+Chennai,Chennai Super Kings,Delhi Capitals,Chennai Super Kings,field,Chennai Super Kings,N,normal
+Mohali,Punjab Kings,Sunrisers Hyderabad,Sunrisers Hyderabad,bat,Punjab Kings,N,normal
+Bangalore,Royal Challengers Bangalore,Mumbai Indians,Mumbai Indians,field,Mumbai Indians,N,normal
+Kolkata,Kolkata Knight Riders,Chennai Super Kings,Chennai Super Kings,field,Chennai Super Kings,N,normal
+Delhi,Delhi Capitals,Punjab Kings,Punjab Kings,bat,Delhi Capitals,N,normal
+Mumbai,Mumbai Indians,Kolkata Knight Riders,Mumbai Indians,field,Kolkata Knight Riders,N,normal
+Dharamsala,Punjab Kings,Chennai Super Kings,Punjab Kings,field,Punjab Kings,N,normal
+Delhi,Delhi Capitals,Royal Challengers Bangalore,Delhi Capitals,field,Royal Challengers Bangalore,N,normal
+Hyderabad,Sunrisers Hyderabad,Rajasthan Royals,Rajasthan Royals,bat,Sunrisers Hyderabad,N,normal
+Dharamsala,Punjab Kings,Delhi Capitals,Delhi Capitals,field,Delhi Capitals,N,normal
+Hyderabad,Sunrisers Hyderabad,Royal Challengers Bangalore,Royal Challengers Bangalore,field,Sunrisers Hyderabad,N,normal
+Jaipur,Rajasthan Royals,Mumbai Indians,Rajasthan Royals,bat,Mumbai Indians,N,normal
+NA,Delhi Capitals,Kolkata Knight Riders,Kolkata Knight Riders,bat,Kolkata Knight Riders,N,normal
+Bangalore,Chennai Super Kings,Mumbai Indians,Mumbai Indians,field,Chennai Super Kings,N,normal
+Chennai,Delhi Capitals,Chennai Super Kings,Delhi Capitals,field,Chennai Super Kings,N,normal
+Chennai,Kolkata Knight Riders,Chennai Super Kings,Chennai Super Kings,bat,Kolkata Knight Riders,N,normal
+Kolkata,Kolkata Knight Riders,Delhi Capitals,Kolkata Knight Riders,field,Kolkata Knight Riders,N,normal
+Bangalore,Royal Challengers Bangalore,Mumbai Indians,Mumbai Indians,field,Royal Challengers Bangalore,N,normal
+Delhi,Delhi Capitals,Rajasthan Royals,Rajasthan Royals,bat,Rajasthan Royals,N,normal
+Chennai,Chennai Super Kings,Mumbai Indians,Mumbai Indians,bat,Mumbai Indians,N,normal
+Hyderabad,Sunrisers Hyderabad,Royal Challengers Bangalore,Royal Challengers Bangalore,bat,Sunrisers Hyderabad,Y,normal
+Jaipur,Rajasthan Royals,Kolkata Knight Riders,Kolkata Knight Riders,field,Rajasthan Royals,N,normal
+Mumbai,Mumbai Indians,Delhi Capitals,Mumbai Indians,bat,Mumbai Indians,N,normal
+Mohali,Punjab Kings,Chennai Super Kings,Chennai Super Kings,field,Chennai Super Kings,N,normal
+Bangalore,Royal Challengers Bangalore,Kolkata Knight Riders,Royal Challengers Bangalore,field,Royal Challengers Bangalore,N,normal
+Delhi,Delhi Capitals,Sunrisers Hyderabad,Delhi Capitals,bat,Sunrisers Hyderabad,N,normal
+Chennai,Chennai Super Kings,Royal Challengers Bangalore,Chennai Super Kings,field,Chennai Super Kings,N,normal
+Kolkata,Kolkata Knight Riders,Sunrisers Hyderabad,Kolkata Knight Riders,bat,Kolkata Knight Riders,N,normal
+Jaipur,Rajasthan Royals,Punjab Kings,Rajasthan Royals,field,Rajasthan Royals,N,normal
+Mohali,Punjab Kings,Kolkata Knight Riders,Kolkata Knight Riders,field,Punjab Kings,N,normal
+Bangalore,Royal Challengers Bangalore,Delhi Capitals,Royal Challengers Bangalore,field,Royal Challengers Bangalore,Y,normal
+Jaipur,Rajasthan Royals,Mumbai Indians,Rajasthan Royals,bat,Rajasthan Royals,N,normal
+Delhi,Delhi Capitals,Chennai Super Kings,Chennai Super Kings,bat,Chennai Super Kings,N,normal
+Hyderabad,Sunrisers Hyderabad,Punjab Kings,Punjab Kings,bat,Sunrisers Hyderabad,N,normal
+Kolkata,Kolkata Knight Riders,Chennai Super Kings,Kolkata Knight Riders,bat,Chennai Super Kings,N,normal
+Bangalore,Royal Challengers Bangalore,Rajasthan Royals,Royal Challengers Bangalore,field,Royal Challengers Bangalore,N,normal
+Delhi,Delhi Capitals,Mumbai Indians,Mumbai Indians,bat,Delhi Capitals,N,normal
+Chennai,Chennai Super Kings,Rajasthan Royals,Rajasthan Royals,bat,Chennai Super Kings,N,normal
+Dharamsala,Punjab Kings,Delhi Capitals,Delhi Capitals,field,Punjab Kings,N,normal
+Kolkata,Kolkata Knight Riders,Mumbai Indians,Kolkata Knight Riders,bat,Mumbai Indians,N,normal
+Chennai,Chennai Super Kings,Sunrisers Hyderabad,Sunrisers Hyderabad,bat,Chennai Super Kings,N,normal
+Kolkata,Kolkata Knight Riders,Punjab Kings,Punjab Kings,bat,Kolkata Knight Riders,N,normal
+Jaipur,Rajasthan Royals,Sunrisers Hyderabad,Sunrisers Hyderabad,bat,Rajasthan Royals,N,normal
+Mumbai,Mumbai Indians,Royal Challengers Bangalore,Mumbai Indians,bat,Mumbai Indians,N,normal
+Chennai,Chennai Super Kings,Kolkata Knight Riders,Kolkata Knight Riders,field,Chennai Super Kings,N,normal
+Jaipur,Rajasthan Royals,Royal Challengers Bangalore,Rajasthan Royals,field,Rajasthan Royals,N,normal
+Mumbai,Mumbai Indians,Punjab Kings,Mumbai Indians,bat,Mumbai Indians,N,normal
+Hyderabad,Sunrisers Hyderabad,Mumbai Indians,Mumbai Indians,bat,Sunrisers Hyderabad,N,normal
+NA,Delhi Capitals,Kolkata Knight Riders,Kolkata Knight Riders,bat,Delhi Capitals,N,normal
+Chennai,Chennai Super Kings,Punjab Kings,Chennai Super Kings,bat,Chennai Super Kings,N,normal
+Kolkata,Kolkata Knight Riders,Rajasthan Royals,Rajasthan Royals,bat,Kolkata Knight Riders,N,normal
+Hyderabad,Sunrisers Hyderabad,Delhi Capitals,Delhi Capitals,bat,Sunrisers Hyderabad,N,normal
+Bangalore,Royal Challengers Bangalore,Punjab Kings,Punjab Kings,field,Punjab Kings,N,normal
+Mumbai,Mumbai Indians,Chennai Super Kings,Mumbai Indians,bat,Mumbai Indians,N,normal
+Bangalore,Royal Challengers Bangalore,Sunrisers Hyderabad,Sunrisers Hyderabad,bat,Royal Challengers Bangalore,N,normal
+Jaipur,Rajasthan Royals,Delhi Capitals,Delhi Capitals,bat,Rajasthan Royals,N,normal
+Mumbai,Mumbai Indians,Kolkata Knight Riders,Mumbai Indians,bat,Mumbai Indians,N,normal
+Hyderabad,Sunrisers Hyderabad,Chennai Super Kings,Sunrisers Hyderabad,field,Chennai Super Kings,N,normal
+Mohali,Punjab Kings,Rajasthan Royals,Rajasthan Royals,field,Rajasthan Royals,N,normal
+Delhi,Delhi Capitals,Royal Challengers Bangalore,Delhi Capitals,field,Royal Challengers Bangalore,N,normal
+Mohali,Punjab Kings,Sunrisers Hyderabad,Punjab Kings,field,Sunrisers Hyderabad,N,normal
+NA,Kolkata Knight Riders,Royal Challengers Bangalore,Kolkata Knight Riders,field,Kolkata Knight Riders,N,normal
+Jaipur,Rajasthan Royals,Chennai Super Kings,Rajasthan Royals,field,Rajasthan Royals,N,normal
+Delhi,Delhi Capitals,Punjab Kings,Punjab Kings,field,Punjab Kings,N,normal
+Mumbai,Mumbai Indians,Sunrisers Hyderabad,Sunrisers Hyderabad,bat,Mumbai Indians,N,normal
+Chennai,Chennai Super Kings,Delhi Capitals,Chennai Super Kings,bat,Chennai Super Kings,N,normal
+Mumbai,Mumbai Indians,Rajasthan Royals,Rajasthan Royals,field,Mumbai Indians,N,normal
+Mohali,Punjab Kings,Royal Challengers Bangalore,Punjab Kings,field,Punjab Kings,N,normal
+Hyderabad,Sunrisers Hyderabad,Rajasthan Royals,Sunrisers Hyderabad,bat,Sunrisers Hyderabad,N,normal
+Dharamsala,Punjab Kings,Mumbai Indians,Mumbai Indians,field,Punjab Kings,N,normal
+Bangalore,Royal Challengers Bangalore,Chennai Super Kings,Chennai Super Kings,field,Royal Challengers Bangalore,N,normal
+Hyderabad,Sunrisers Hyderabad,Kolkata Knight Riders,Kolkata Knight Riders,bat,Sunrisers Hyderabad,N,normal
+Delhi,Chennai Super Kings,Mumbai Indians,Chennai Super Kings,bat,Chennai Super Kings,N,normal
+Delhi,Rajasthan Royals,Sunrisers Hyderabad,Sunrisers Hyderabad,bat,Rajasthan Royals,N,normal
+Kolkata,Mumbai Indians,Rajasthan Royals,Rajasthan Royals,bat,Mumbai Indians,N,normal
+Kolkata,Chennai Super Kings,Mumbai Indians,Mumbai Indians,bat,Mumbai Indians,N,normal
+NA,Mumbai Indians,Kolkata Knight Riders,Kolkata Knight Riders,bat,Kolkata Knight Riders,N,normal
+NA,Delhi Capitals,Royal Challengers Bangalore,Royal Challengers Bangalore,field,Royal Challengers Bangalore,N,normal
+NA,Chennai Super Kings,Punjab Kings,Chennai Super Kings,bat,Punjab Kings,N,normal
+NA,Sunrisers Hyderabad,Rajasthan Royals,Rajasthan Royals,field,Rajasthan Royals,N,normal
+NA,Royal Challengers Bangalore,Mumbai Indians,Royal Challengers Bangalore,field,Royal Challengers Bangalore,N,normal
+NA,Kolkata Knight Riders,Delhi Capitals,Kolkata Knight Riders,bat,Delhi Capitals,N,normal
+NA,Rajasthan Royals,Punjab Kings,Punjab Kings,field,Punjab Kings,N,normal
+NA,Chennai Super Kings,Delhi Capitals,Chennai Super Kings,bat,Chennai Super Kings,N,normal
+NA,Punjab Kings,Sunrisers Hyderabad,Sunrisers Hyderabad,field,Punjab Kings,N,normal
+NA,Rajasthan Royals,Chennai Super Kings,Rajasthan Royals,field,Chennai Super Kings,N,normal
+NA,Royal Challengers Bangalore,Kolkata Knight Riders,Royal Challengers Bangalore,field,Kolkata Knight Riders,N,normal
+NA,Sunrisers Hyderabad,Delhi Capitals,Sunrisers Hyderabad,bat,Sunrisers Hyderabad,N,normal
+NA,Chennai Super Kings,Mumbai Indians,Mumbai Indians,bat,Chennai Super Kings,N,normal
+NA,Rajasthan Royals,Royal Challengers Bangalore,Rajasthan Royals,field,Rajasthan Royals,N,normal
+NA,Kolkata Knight Riders,Punjab Kings,Kolkata Knight Riders,field,Punjab Kings,N,normal
+NA,Delhi Capitals,Mumbai Indians,Mumbai Indians,bat,Delhi Capitals,N,normal
+NA,Sunrisers Hyderabad,Chennai Super Kings,Sunrisers Hyderabad,bat,Chennai Super Kings,N,normal
+NA,Punjab Kings,Royal Challengers Bangalore,Punjab Kings,field,Punjab Kings,N,normal
+NA,Kolkata Knight Riders,Rajasthan Royals,Rajasthan Royals,bat,Rajasthan Royals,Y,normal
+NA,Mumbai Indians,Sunrisers Hyderabad,Mumbai Indians,field,Sunrisers Hyderabad,N,normal
+NA,Chennai Super Kings,Kolkata Knight Riders,Chennai Super Kings,bat,Chennai Super Kings,N,normal
+Mumbai,Mumbai Indians,Punjab Kings,Punjab Kings,bat,Mumbai Indians,N,normal
+Delhi,Delhi Capitals,Rajasthan Royals,Rajasthan Royals,field,Rajasthan Royals,N,normal
+Bangalore,Royal Challengers Bangalore,Sunrisers Hyderabad,Royal Challengers Bangalore,field,Royal Challengers Bangalore,N,normal
+Ahmedabad,Rajasthan Royals,Kolkata Knight Riders,Kolkata Knight Riders,field,Rajasthan Royals,N,normal
+Delhi,Delhi Capitals,Chennai Super Kings,Chennai Super Kings,field,Chennai Super Kings,N,normal
+Mumbai,Mumbai Indians,Royal Challengers Bangalore,Royal Challengers Bangalore,field,Mumbai Indians,N,normal
+Delhi,Delhi Capitals,Kolkata Knight Riders,Delhi Capitals,bat,Kolkata Knight Riders,N,normal
+NA,Punjab Kings,Chennai Super Kings,Chennai Super Kings,field,Punjab Kings,N,normal
+Ahmedabad,Rajasthan Royals,Sunrisers Hyderabad,Rajasthan Royals,field,Sunrisers Hyderabad,N,normal
+Bangalore,Royal Challengers Bangalore,Punjab Kings,Royal Challengers Bangalore,field,Punjab Kings,N,normal
+Delhi,Delhi Capitals,Sunrisers Hyderabad,Sunrisers Hyderabad,field,Sunrisers Hyderabad,N,D/L
+Mumbai,Mumbai Indians,Chennai Super Kings,Chennai Super Kings,field,Chennai Super Kings,N,normal
+NA,Punjab Kings,Kolkata Knight Riders,Kolkata Knight Riders,field,Kolkata Knight Riders,N,normal
+Bangalore,Royal Challengers Bangalore,Rajasthan Royals,Royal Challengers Bangalore,bat,Rajasthan Royals,N,normal
+Hyderabad,Sunrisers Hyderabad,Mumbai Indians,Sunrisers Hyderabad,bat,Mumbai Indians,N,normal
+NA,Chennai Super Kings,Rajasthan Royals,Rajasthan Royals,bat,Chennai Super Kings,N,normal
+Bangalore,Royal Challengers Bangalore,Delhi Capitals,Delhi Capitals,field,Royal Challengers Bangalore,N,normal
+Hyderabad,Sunrisers Hyderabad,Punjab Kings,Punjab Kings,field,Punjab Kings,N,normal
+NA,Kolkata Knight Riders,Mumbai Indians,Kolkata Knight Riders,field,Kolkata Knight Riders,N,normal
+Ahmedabad,Rajasthan Royals,Delhi Capitals,Delhi Capitals,field,Rajasthan Royals,N,normal
+NA,Chennai Super Kings,Royal Challengers Bangalore,Chennai Super Kings,bat,Royal Challengers Bangalore,N,normal
+Hyderabad,Sunrisers Hyderabad,Kolkata Knight Riders,Sunrisers Hyderabad,bat,Kolkata Knight Riders,N,normal
+Ahmedabad,Rajasthan Royals,Mumbai Indians,Mumbai Indians,bat,Mumbai Indians,N,normal
+Delhi,Delhi Capitals,Punjab Kings,Punjab Kings,field,Punjab Kings,N,normal
+Hyderabad,Sunrisers Hyderabad,Royal Challengers Bangalore,Royal Challengers Bangalore,bat,Sunrisers Hyderabad,N,normal
+Kolkata,Kolkata Knight Riders,Chennai Super Kings,Kolkata Knight Riders,field,Kolkata Knight Riders,N,normal
+Mohali,Punjab Kings,Mumbai Indians,Mumbai Indians,field,Mumbai Indians,N,normal
+Kolkata,Kolkata Knight Riders,Royal Challengers Bangalore,Royal Challengers Bangalore,field,Kolkata Knight Riders,N,normal
+NA,Chennai Super Kings,Sunrisers Hyderabad,Sunrisers Hyderabad,field,Sunrisers Hyderabad,N,normal
+Mumbai,Mumbai Indians,Delhi Capitals,Delhi Capitals,field,Mumbai Indians,N,normal
+Mohali,Punjab Kings,Rajasthan Royals,Rajasthan Royals,field,Punjab Kings,N,normal
+Bangalore,Royal Challengers Bangalore,Chennai Super Kings,Chennai Super Kings,field,Chennai Super Kings,N,normal
+Kolkata,Kolkata Knight Riders,Sunrisers Hyderabad,Kolkata Knight Riders,field,Kolkata Knight Riders,N,normal
+Mohali,Punjab Kings,Delhi Capitals,Punjab Kings,field,Punjab Kings,N,normal
+Mumbai,Mumbai Indians,Rajasthan Royals,Mumbai Indians,field,Mumbai Indians,N,normal
+Kolkata,Punjab Kings,Kolkata Knight Riders,Punjab Kings,field,Kolkata Knight Riders,N,normal
+Mumbai,Chennai Super Kings,Mumbai Indians,Chennai Super Kings,field,Chennai Super Kings,N,normal
+Mumbai,Chennai Super Kings,Punjab Kings,Chennai Super Kings,field,Punjab Kings,N,normal
+Bangalore,Kolkata Knight Riders,Punjab Kings,Kolkata Knight Riders,field,Kolkata Knight Riders,N,normal
+Kolkata,Kolkata Knight Riders,Mumbai Indians,Kolkata Knight Riders,field,Kolkata Knight Riders,N,normal
+Chennai,Chennai Super Kings,Delhi Capitals,Delhi Capitals,field,Chennai Super Kings,N,normal
+NA,Punjab Kings,Rajasthan Royals,Punjab Kings,field,Rajasthan Royals,N,normal
+Chennai,Chennai Super Kings,Sunrisers Hyderabad,Chennai Super Kings,bat,Chennai Super Kings,N,normal
+Kolkata,Kolkata Knight Riders,Royal Challengers Bangalore,Royal Challengers Bangalore,field,Royal Challengers Bangalore,N,normal
+Delhi,Delhi Capitals,Rajasthan Royals,Rajasthan Royals,field,Rajasthan Royals,N,normal
+Mumbai,Mumbai Indians,Punjab Kings,Mumbai Indians,field,Punjab Kings,N,normal
+Bangalore,Royal Challengers Bangalore,Sunrisers Hyderabad,Sunrisers Hyderabad,field,Sunrisers Hyderabad,N,normal
+Ahmedabad,Rajasthan Royals,Mumbai Indians,Mumbai Indians,bat,Rajasthan Royals,N,normal
+Kolkata,Kolkata Knight Riders,Chennai Super Kings,Kolkata Knight Riders,field,Kolkata Knight Riders,N,normal
+NA,Punjab Kings,Delhi Capitals,Punjab Kings,bat,Delhi Capitals,N,normal
+NA,Sunrisers Hyderabad,Rajasthan Royals,Rajasthan Royals,field,Rajasthan Royals,N,normal
+Mumbai,Mumbai Indians,Chennai Super Kings,Mumbai Indians,bat,Chennai Super Kings,N,normal
+NA,Sunrisers Hyderabad,Delhi Capitals,Delhi Capitals,bat,Delhi Capitals,N,normal
+NA,Punjab Kings,Kolkata Knight Riders,Kolkata Knight Riders,field,Kolkata Knight Riders,N,normal
+Ahmedabad,Rajasthan Royals,Chennai Super Kings,Chennai Super Kings,bat,Rajasthan Royals,N,normal
+Bangalore,Royal Challengers Bangalore,Mumbai Indians,Royal Challengers Bangalore,field,Mumbai Indians,N,normal
+Delhi,Delhi Capitals,Kolkata Knight Riders,Kolkata Knight Riders,field,Kolkata Knight Riders,N,normal
+Ahmedabad,Rajasthan Royals,Punjab Kings,Punjab Kings,field,Punjab Kings,Y,normal
+NA,Sunrisers Hyderabad,Kolkata Knight Riders,Kolkata Knight Riders,field,Sunrisers Hyderabad,N,D/L
+Bangalore,Royal Challengers Bangalore,Chennai Super Kings,Royal Challengers Bangalore,field,Chennai Super Kings,N,normal
+Delhi,Delhi Capitals,Mumbai Indians,Mumbai Indians,field,Delhi Capitals,N,normal
+Ahmedabad,Rajasthan Royals,Royal Challengers Bangalore,Royal Challengers Bangalore,field,Royal Challengers Bangalore,N,normal
+Mumbai,Mumbai Indians,Sunrisers Hyderabad,Mumbai Indians,bat,Mumbai Indians,N,normal
+Chennai,Chennai Super Kings,Punjab Kings,Chennai Super Kings,bat,Chennai Super Kings,N,normal
+Delhi,Delhi Capitals,Royal Challengers Bangalore,Royal Challengers Bangalore,field,Royal Challengers Bangalore,N,normal
+Mohali,Punjab Kings,Sunrisers Hyderabad,Punjab Kings,field,Sunrisers Hyderabad,N,normal
+Kolkata,Kolkata Knight Riders,Delhi Capitals,Kolkata Knight Riders,bat,Kolkata Knight Riders,N,normal
+Bangalore,Royal Challengers Bangalore,Rajasthan Royals,Rajasthan Royals,field,NA,NA,normal
+Chennai,Chennai Super Kings,Kolkata Knight Riders,Kolkata Knight Riders,field,Chennai Super Kings,N,normal
+Delhi,Delhi Capitals,Punjab Kings,Delhi Capitals,field,Delhi Capitals,N,normal
+Mumbai,Mumbai Indians,Rajasthan Royals,Rajasthan Royals,field,Mumbai Indians,N,normal
+Bangalore,Royal Challengers Bangalore,Kolkata Knight Riders,Royal Challengers Bangalore,field,Royal Challengers Bangalore,N,normal
+Hyderabad,Sunrisers Hyderabad,Chennai Super Kings,Chennai Super Kings,field,Sunrisers Hyderabad,N,normal
+Mohali,Punjab Kings,Mumbai Indians,Mumbai Indians,bat,Mumbai Indians,N,normal
+Mumbai,Rajasthan Royals,Delhi Capitals,Delhi Capitals,field,Rajasthan Royals,N,normal
+Chennai,Chennai Super Kings,Royal Challengers Bangalore,Chennai Super Kings,bat,Chennai Super Kings,N,normal
+Kolkata,Kolkata Knight Riders,Sunrisers Hyderabad,Sunrisers Hyderabad,field,Kolkata Knight Riders,N,normal
+Mumbai,Mumbai Indians,Delhi Capitals,Delhi Capitals,bat,Mumbai Indians,N,normal
+Bangalore,Royal Challengers Bangalore,Punjab Kings,Punjab Kings,field,Royal Challengers Bangalore,N,normal
+Mumbai,Rajasthan Royals,Sunrisers Hyderabad,Rajasthan Royals,field,Sunrisers Hyderabad,N,normal
+Chennai,Chennai Super Kings,Mumbai Indians,Chennai Super Kings,bat,Mumbai Indians,N,normal
+Kolkata,Kolkata Knight Riders,Punjab Kings,Punjab Kings,bat,Kolkata Knight Riders,N,normal
+NA,Delhi Capitals,Sunrisers Hyderabad,Sunrisers Hyderabad,bat,Sunrisers Hyderabad,N,normal
+Mumbai,Mumbai Indians,Royal Challengers Bangalore,Royal Challengers Bangalore,bat,Royal Challengers Bangalore,N,normal
+Chennai,Chennai Super Kings,Rajasthan Royals,Chennai Super Kings,bat,Chennai Super Kings,N,normal
+Hyderabad,Sunrisers Hyderabad,Punjab Kings,Sunrisers Hyderabad,bat,Sunrisers Hyderabad,N,normal
+NA,Delhi Capitals,Chennai Super Kings,Chennai Super Kings,bat,Delhi Capitals,N,normal
+Mohali,Punjab Kings,Royal Challengers Bangalore,Royal Challengers Bangalore,field,Punjab Kings,N,normal
+Mumbai,Mumbai Indians,Kolkata Knight Riders,Kolkata Knight Riders,field,Mumbai Indians,N,normal
+Hyderabad,Sunrisers Hyderabad,Royal Challengers Bangalore,Sunrisers Hyderabad,bat,Royal Challengers Bangalore,N,D/L
+Mohali,Punjab Kings,Chennai Super Kings,Punjab Kings,bat,Chennai Super Kings,N,normal
+Mumbai,Rajasthan Royals,Kolkata Knight Riders,Rajasthan Royals,bat,Rajasthan Royals,N,normal
+Bangalore,Royal Challengers Bangalore,Delhi Capitals,Royal Challengers Bangalore,field,NA,NA,normal
+Hyderabad,Sunrisers Hyderabad,Mumbai Indians,Sunrisers Hyderabad,bat,Mumbai Indians,N,normal
+Mumbai,Chennai Super Kings,Mumbai Indians,Mumbai Indians,bat,Mumbai Indians,N,normal
+NA,Royal Challengers Bangalore,Rajasthan Royals,Royal Challengers Bangalore,bat,Royal Challengers Bangalore,N,normal
+NA,Chennai Super Kings,Royal Challengers Bangalore,Chennai Super Kings,field,Chennai Super Kings,N,normal
+Kolkata,Mumbai Indians,Chennai Super Kings,Chennai Super Kings,field,Mumbai Indians,N,normal
+Kolkata,Kolkata Knight Riders,Delhi Capitals,Kolkata Knight Riders,field,Kolkata Knight Riders,N,normal
+Bangalore,Royal Challengers Bangalore,Sunrisers Hyderabad,Sunrisers Hyderabad,field,Royal Challengers Bangalore,N,normal
+Kolkata,Kolkata Knight Riders,Mumbai Indians,Mumbai Indians,field,Mumbai Indians,N,normal
+Delhi,Delhi Capitals,Punjab Kings,Delhi Capitals,field,Delhi Capitals,N,normal
+Hyderabad,Sunrisers Hyderabad,Kolkata Knight Riders,Sunrisers Hyderabad,bat,Kolkata Knight Riders,N,normal
+Bangalore,Royal Challengers Bangalore,Delhi Capitals,Delhi Capitals,field,Delhi Capitals,N,normal
+Hyderabad,Sunrisers Hyderabad,Mumbai Indians,Sunrisers Hyderabad,field,Sunrisers Hyderabad,N,normal
+Mohali,Punjab Kings,Kolkata Knight Riders,Kolkata Knight Riders,field,Kolkata Knight Riders,N,normal
+Mumbai,Mumbai Indians,Royal Challengers Bangalore,Mumbai Indians,field,Mumbai Indians,N,normal
+Delhi,Delhi Capitals,Mumbai Indians,Mumbai Indians,field,Delhi Capitals,N,normal
+Hyderabad,Sunrisers Hyderabad,Punjab Kings,Sunrisers Hyderabad,field,Sunrisers Hyderabad,N,normal
+Mohali,Punjab Kings,Mumbai Indians,Punjab Kings,field,Mumbai Indians,N,normal
+Mumbai,Mumbai Indians,Kolkata Knight Riders,Mumbai Indians,field,Mumbai Indians,N,normal
+Delhi,Delhi Capitals,Kolkata Knight Riders,Kolkata Knight Riders,field,Delhi Capitals,N,normal
+Hyderabad,Sunrisers Hyderabad,Royal Challengers Bangalore,Royal Challengers Bangalore,field,Sunrisers Hyderabad,N,normal
+Bangalore,Royal Challengers Bangalore,Kolkata Knight Riders,Kolkata Knight Riders,field,Kolkata Knight Riders,N,normal
+Kolkata,Kolkata Knight Riders,Punjab Kings,Punjab Kings,field,Kolkata Knight Riders,N,normal
+Mohali,Punjab Kings,Delhi Capitals,Delhi Capitals,field,Punjab Kings,N,normal
+NA,Mumbai Indians,Sunrisers Hyderabad,Mumbai Indians,field,Sunrisers Hyderabad,N,normal
+Mohali,Punjab Kings,Royal Challengers Bangalore,Punjab Kings,field,Royal Challengers Bangalore,N,normal
+Bangalore,Royal Challengers Bangalore,Mumbai Indians,Mumbai Indians,field,Mumbai Indians,N,normal
+Hyderabad,Sunrisers Hyderabad,Delhi Capitals,Delhi Capitals,field,Delhi Capitals,N,normal
+NA,Mumbai Indians,Punjab Kings,Mumbai Indians,bat,Punjab Kings,N,normal
+Mohali,Punjab Kings,Sunrisers Hyderabad,Punjab Kings,bat,Sunrisers Hyderabad,N,normal
+NA,Mumbai Indians,Delhi Capitals,Delhi Capitals,field,Mumbai Indians,N,normal
+Kolkata,Kolkata Knight Riders,Royal Challengers Bangalore,Royal Challengers Bangalore,field,Royal Challengers Bangalore,N,normal
+Bangalore,Royal Challengers Bangalore,Punjab Kings,Punjab Kings,field,Royal Challengers Bangalore,N,D/L
+NA,Delhi Capitals,Sunrisers Hyderabad,Delhi Capitals,field,Delhi Capitals,N,normal
+Kolkata,Kolkata Knight Riders,Sunrisers Hyderabad,Sunrisers Hyderabad,field,Kolkata Knight Riders,N,normal
+NA,Delhi Capitals,Royal Challengers Bangalore,Royal Challengers Bangalore,field,Royal Challengers Bangalore,N,normal
+Delhi,Sunrisers Hyderabad,Kolkata Knight Riders,Kolkata Knight Riders,field,Sunrisers Hyderabad,N,normal
+Bangalore,Royal Challengers Bangalore,Sunrisers Hyderabad,Sunrisers Hyderabad,bat,Sunrisers Hyderabad,N,normal
+Hyderabad,Sunrisers Hyderabad,Royal Challengers Bangalore,Royal Challengers Bangalore,field,Sunrisers Hyderabad,N,normal
+Bangalore,Royal Challengers Bangalore,Delhi Capitals,Royal Challengers Bangalore,bat,Royal Challengers Bangalore,N,normal
+Mumbai,Mumbai Indians,Kolkata Knight Riders,Mumbai Indians,field,Mumbai Indians,N,normal
+NA,Punjab Kings,Royal Challengers Bangalore,Royal Challengers Bangalore,bat,Punjab Kings,N,normal
+Mumbai,Mumbai Indians,Sunrisers Hyderabad,Mumbai Indians,field,Mumbai Indians,N,normal
+Kolkata,Kolkata Knight Riders,Punjab Kings,Kolkata Knight Riders,field,Kolkata Knight Riders,N,normal
+Bangalore,Royal Challengers Bangalore,Mumbai Indians,Mumbai Indians,field,Mumbai Indians,N,normal
+Kolkata,Kolkata Knight Riders,Sunrisers Hyderabad,Sunrisers Hyderabad,field,Kolkata Knight Riders,N,normal
+Delhi,Delhi Capitals,Punjab Kings,Delhi Capitals,bat,Delhi Capitals,N,normal
+Delhi,Delhi Capitals,Kolkata Knight Riders,Delhi Capitals,bat,Kolkata Knight Riders,N,normal
+Hyderabad,Sunrisers Hyderabad,Punjab Kings,Punjab Kings,field,Sunrisers Hyderabad,N,normal
+Hyderabad,Sunrisers Hyderabad,Delhi Capitals,Sunrisers Hyderabad,bat,Sunrisers Hyderabad,N,normal
+NA,Punjab Kings,Mumbai Indians,Mumbai Indians,field,Mumbai Indians,N,normal
+Mumbai,Mumbai Indians,Delhi Capitals,Delhi Capitals,field,Mumbai Indians,N,normal
+Kolkata,Kolkata Knight Riders,Royal Challengers Bangalore,Royal Challengers Bangalore,field,Kolkata Knight Riders,N,normal
+Kolkata,Kolkata Knight Riders,Delhi Capitals,Kolkata Knight Riders,field,Kolkata Knight Riders,N,normal
+Mohali,Punjab Kings,Sunrisers Hyderabad,Punjab Kings,field,Sunrisers Hyderabad,N,normal
+Mohali,Punjab Kings,Delhi Capitals,Punjab Kings,field,Punjab Kings,N,normal
+Hyderabad,Sunrisers Hyderabad,Kolkata Knight Riders,Kolkata Knight Riders,field,Sunrisers Hyderabad,N,normal
+Mumbai,Mumbai Indians,Royal Challengers Bangalore,Royal Challengers Bangalore,bat,Mumbai Indians,N,normal
+Delhi,Delhi Capitals,Sunrisers Hyderabad,Delhi Capitals,field,Delhi Capitals,N,normal
+Bangalore,Royal Challengers Bangalore,Punjab Kings,Royal Challengers Bangalore,field,Punjab Kings,N,normal
+Delhi,Delhi Capitals,Mumbai Indians,Delhi Capitals,field,Mumbai Indians,N,normal
+Bangalore,Royal Challengers Bangalore,Kolkata Knight Riders,Kolkata Knight Riders,field,Kolkata Knight Riders,N,normal
+Hyderabad,Sunrisers Hyderabad,Mumbai Indians,Mumbai Indians,bat,Sunrisers Hyderabad,N,normal
+Mohali,Punjab Kings,Kolkata Knight Riders,Kolkata Knight Riders,field,Punjab Kings,N,normal
+Mumbai,Mumbai Indians,Punjab Kings,Mumbai Indians,field,Punjab Kings,N,normal
+Kolkata,Kolkata Knight Riders,Mumbai Indians,Kolkata Knight Riders,field,Mumbai Indians,N,normal
+Delhi,Delhi Capitals,Royal Challengers Bangalore,Royal Challengers Bangalore,bat,Royal Challengers Bangalore,N,normal
+Bangalore,Sunrisers Hyderabad,Kolkata Knight Riders,Kolkata Knight Riders,field,Kolkata Knight Riders,N,D/L
+Bangalore,Mumbai Indians,Kolkata Knight Riders,Mumbai Indians,field,Mumbai Indians,N,normal
+Mumbai,Mumbai Indians,Chennai Super Kings,Chennai Super Kings,field,Chennai Super Kings,N,normal
+Mohali,Punjab Kings,Delhi Capitals,Punjab Kings,field,Punjab Kings,N,normal
+Kolkata,Kolkata Knight Riders,Royal Challengers Bangalore,Kolkata Knight Riders,field,Kolkata Knight Riders,N,normal
+Hyderabad,Sunrisers Hyderabad,Rajasthan Royals,Sunrisers Hyderabad,field,Sunrisers Hyderabad,N,normal
+Chennai,Chennai Super Kings,Kolkata Knight Riders,Chennai Super Kings,field,Chennai Super Kings,N,normal
+Jaipur,Rajasthan Royals,Delhi Capitals,Delhi Capitals,field,Rajasthan Royals,N,D/L
+Hyderabad,Sunrisers Hyderabad,Mumbai Indians,Sunrisers Hyderabad,field,Sunrisers Hyderabad,N,normal
+Bangalore,Royal Challengers Bangalore,Punjab Kings,Royal Challengers Bangalore,field,Royal Challengers Bangalore,N,normal
+Mumbai,Mumbai Indians,Delhi Capitals,Delhi Capitals,field,Delhi Capitals,N,normal
+Kolkata,Kolkata Knight Riders,Sunrisers Hyderabad,Sunrisers Hyderabad,field,Sunrisers Hyderabad,N,normal
+Bangalore,Royal Challengers Bangalore,Rajasthan Royals,Royal Challengers Bangalore,field,Rajasthan Royals,N,normal
+Mohali,Punjab Kings,Chennai Super Kings,Chennai Super Kings,field,Punjab Kings,N,normal
+Kolkata,Kolkata Knight Riders,Delhi Capitals,Delhi Capitals,field,Kolkata Knight Riders,N,normal
+Mumbai,Mumbai Indians,Royal Challengers Bangalore,Royal Challengers Bangalore,field,Mumbai Indians,N,normal
+Jaipur,Rajasthan Royals,Kolkata Knight Riders,Kolkata Knight Riders,field,Kolkata Knight Riders,N,normal
+Mohali,Punjab Kings,Sunrisers Hyderabad,Punjab Kings,bat,Punjab Kings,N,normal
+NA,Chennai Super Kings,Rajasthan Royals,Rajasthan Royals,field,Chennai Super Kings,N,normal
+Kolkata,Kolkata Knight Riders,Punjab Kings,Punjab Kings,field,Punjab Kings,N,D/L
+Bangalore,Royal Challengers Bangalore,Delhi Capitals,Royal Challengers Bangalore,field,Royal Challengers Bangalore,N,normal
+Hyderabad,Sunrisers Hyderabad,Chennai Super Kings,Sunrisers Hyderabad,field,Chennai Super Kings,N,normal
+Jaipur,Rajasthan Royals,Mumbai Indians,Mumbai Indians,bat,Rajasthan Royals,N,normal
+Delhi,Delhi Capitals,Punjab Kings,Delhi Capitals,field,Punjab Kings,N,normal
+Mumbai,Mumbai Indians,Sunrisers Hyderabad,Mumbai Indians,field,Sunrisers Hyderabad,N,normal
+Bangalore,Royal Challengers Bangalore,Chennai Super Kings,Chennai Super Kings,field,Chennai Super Kings,N,normal
+Hyderabad,Sunrisers Hyderabad,Punjab Kings,Punjab Kings,field,Sunrisers Hyderabad,N,normal
+Delhi,Delhi Capitals,Kolkata Knight Riders,Kolkata Knight Riders,field,Delhi Capitals,N,normal
+NA,Chennai Super Kings,Mumbai Indians,Mumbai Indians,field,Mumbai Indians,N,normal
+Jaipur,Rajasthan Royals,Sunrisers Hyderabad,Sunrisers Hyderabad,bat,Sunrisers Hyderabad,N,normal
+Bangalore,Royal Challengers Bangalore,Kolkata Knight Riders,Kolkata Knight Riders,field,Kolkata Knight Riders,N,normal
+NA,Chennai Super Kings,Delhi Capitals,Delhi Capitals,field,Chennai Super Kings,N,normal
+Bangalore,Royal Challengers Bangalore,Mumbai Indians,Mumbai Indians,field,Royal Challengers Bangalore,N,normal
+Delhi,Delhi Capitals,Rajasthan Royals,Rajasthan Royals,field,Delhi Capitals,N,D/L
+Kolkata,Kolkata Knight Riders,Chennai Super Kings,Kolkata Knight Riders,field,Kolkata Knight Riders,N,normal
+NA,Punjab Kings,Mumbai Indians,Mumbai Indians,field,Mumbai Indians,N,normal
+NA,Chennai Super Kings,Royal Challengers Bangalore,Chennai Super Kings,field,Chennai Super Kings,N,normal
+Hyderabad,Sunrisers Hyderabad,Delhi Capitals,Delhi Capitals,bat,Sunrisers Hyderabad,N,normal
+Mumbai,Mumbai Indians,Kolkata Knight Riders,Kolkata Knight Riders,field,Mumbai Indians,N,normal
+NA,Punjab Kings,Rajasthan Royals,Punjab Kings,field,Punjab Kings,N,normal
+Hyderabad,Sunrisers Hyderabad,Royal Challengers Bangalore,Royal Challengers Bangalore,field,Sunrisers Hyderabad,N,normal
+Jaipur,Rajasthan Royals,Punjab Kings,Rajasthan Royals,bat,Rajasthan Royals,N,normal
+Kolkata,Kolkata Knight Riders,Mumbai Indians,Kolkata Knight Riders,field,Mumbai Indians,N,normal
+Delhi,Delhi Capitals,Sunrisers Hyderabad,Delhi Capitals,bat,Sunrisers Hyderabad,N,normal
+Jaipur,Rajasthan Royals,Chennai Super Kings,Chennai Super Kings,bat,Rajasthan Royals,N,normal
+NA,Punjab Kings,Kolkata Knight Riders,Punjab Kings,field,Kolkata Knight Riders,N,normal
+Delhi,Delhi Capitals,Royal Challengers Bangalore,Royal Challengers Bangalore,field,Royal Challengers Bangalore,N,normal
+NA,Chennai Super Kings,Sunrisers Hyderabad,Chennai Super Kings,field,Chennai Super Kings,N,normal
+Mumbai,Mumbai Indians,Rajasthan Royals,Rajasthan Royals,field,Rajasthan Royals,N,normal
+NA,Punjab Kings,Royal Challengers Bangalore,Royal Challengers Bangalore,field,Royal Challengers Bangalore,N,normal
+Kolkata,Kolkata Knight Riders,Rajasthan Royals,Kolkata Knight Riders,field,Kolkata Knight Riders,N,normal
+Mumbai,Mumbai Indians,Punjab Kings,Punjab Kings,field,Mumbai Indians,N,normal
+Bangalore,Royal Challengers Bangalore,Sunrisers Hyderabad,Sunrisers Hyderabad,field,Royal Challengers Bangalore,N,normal
+Delhi,Delhi Capitals,Chennai Super Kings,Chennai Super Kings,field,Delhi Capitals,N,normal
+Jaipur,Rajasthan Royals,Royal Challengers Bangalore,Rajasthan Royals,bat,Rajasthan Royals,N,normal
+Hyderabad,Sunrisers Hyderabad,Kolkata Knight Riders,Sunrisers Hyderabad,bat,Kolkata Knight Riders,N,normal
+Delhi,Delhi Capitals,Mumbai Indians,Delhi Capitals,bat,Delhi Capitals,N,normal
+NA,Chennai Super Kings,Punjab Kings,Chennai Super Kings,field,Chennai Super Kings,N,normal
+Mumbai,Sunrisers Hyderabad,Chennai Super Kings,Chennai Super Kings,field,Chennai Super Kings,N,normal
+Kolkata,Kolkata Knight Riders,Rajasthan Royals,Rajasthan Royals,field,Kolkata Knight Riders,N,normal
+Kolkata,Kolkata Knight Riders,Sunrisers Hyderabad,Kolkata Knight Riders,field,Sunrisers Hyderabad,N,normal
+Mumbai,Chennai Super Kings,Sunrisers Hyderabad,Chennai Super Kings,field,Chennai Super Kings,N,normal
+Chennai,Chennai Super Kings,Royal Challengers Bangalore,Chennai Super Kings,field,Chennai Super Kings,N,normal
+Kolkata,Kolkata Knight Riders,Sunrisers Hyderabad,Kolkata Knight Riders,field,Kolkata Knight Riders,N,normal
+Mumbai,Mumbai Indians,Delhi Capitals,Mumbai Indians,field,Delhi Capitals,N,normal
+Jaipur,Rajasthan Royals,Punjab Kings,Rajasthan Royals,field,Punjab Kings,N,normal
+Delhi,Delhi Capitals,Chennai Super Kings,Delhi Capitals,bat,Chennai Super Kings,N,normal
+Kolkata,Kolkata Knight Riders,Punjab Kings,Punjab Kings,field,Kolkata Knight Riders,N,normal
+Bangalore,Royal Challengers Bangalore,Mumbai Indians,Royal Challengers Bangalore,field,Mumbai Indians,N,normal
+Hyderabad,Sunrisers Hyderabad,Rajasthan Royals,Rajasthan Royals,bat,Sunrisers Hyderabad,N,normal
+Mohali,Punjab Kings,Mumbai Indians,Punjab Kings,field,Punjab Kings,N,normal
+Delhi,Delhi Capitals,Kolkata Knight Riders,Delhi Capitals,field,Delhi Capitals,Y,normal
+Hyderabad,Sunrisers Hyderabad,Royal Challengers Bangalore,Royal Challengers Bangalore,field,Sunrisers Hyderabad,N,normal
+Chennai,Chennai Super Kings,Rajasthan Royals,Rajasthan Royals,field,Chennai Super Kings,N,normal
+Mohali,Punjab Kings,Delhi Capitals,Delhi Capitals,field,Punjab Kings,N,normal
+Jaipur,Rajasthan Royals,Royal Challengers Bangalore,Rajasthan Royals,field,Rajasthan Royals,N,normal
+Mumbai,Mumbai Indians,Chennai Super Kings,Chennai Super Kings,field,Mumbai Indians,N,normal
+Delhi,Delhi Capitals,Sunrisers Hyderabad,Sunrisers Hyderabad,field,Sunrisers Hyderabad,N,normal
+Bangalore,Royal Challengers Bangalore,Kolkata Knight Riders,Kolkata Knight Riders,field,Kolkata Knight Riders,N,normal
+Chennai,Chennai Super Kings,Punjab Kings,Chennai Super Kings,bat,Chennai Super Kings,N,normal
+Hyderabad,Sunrisers Hyderabad,Mumbai Indians,Sunrisers Hyderabad,field,Mumbai Indians,N,normal
+Bangalore,Royal Challengers Bangalore,Delhi Capitals,Delhi Capitals,field,Delhi Capitals,N,normal
+Jaipur,Rajasthan Royals,Kolkata Knight Riders,Kolkata Knight Riders,field,Kolkata Knight Riders,N,normal
+Mohali,Punjab Kings,Sunrisers Hyderabad,Punjab Kings,field,Punjab Kings,N,normal
+Chennai,Chennai Super Kings,Kolkata Knight Riders,Chennai Super Kings,field,Chennai Super Kings,N,normal
+Mumbai,Mumbai Indians,Punjab Kings,Mumbai Indians,field,Mumbai Indians,N,normal
+Jaipur,Rajasthan Royals,Chennai Super Kings,Chennai Super Kings,field,Chennai Super Kings,N,normal
+Kolkata,Kolkata Knight Riders,Delhi Capitals,Delhi Capitals,field,Delhi Capitals,N,normal
+Mumbai,Mumbai Indians,Rajasthan Royals,Rajasthan Royals,field,Rajasthan Royals,N,normal
+Mohali,Punjab Kings,Royal Challengers Bangalore,Royal Challengers Bangalore,field,Royal Challengers Bangalore,N,normal
+Kolkata,Kolkata Knight Riders,Chennai Super Kings,Chennai Super Kings,field,Chennai Super Kings,N,normal
+Hyderabad,Sunrisers Hyderabad,Delhi Capitals,Sunrisers Hyderabad,field,Delhi Capitals,N,normal
+Mumbai,Mumbai Indians,Royal Challengers Bangalore,Mumbai Indians,field,Mumbai Indians,N,normal
+Mohali,Punjab Kings,Rajasthan Royals,Rajasthan Royals,field,Punjab Kings,N,normal
+Hyderabad,Sunrisers Hyderabad,Chennai Super Kings,Chennai Super Kings,bat,Sunrisers Hyderabad,N,normal
+Delhi,Delhi Capitals,Mumbai Indians,Mumbai Indians,bat,Mumbai Indians,N,normal
+Kolkata,Kolkata Knight Riders,Royal Challengers Bangalore,Kolkata Knight Riders,field,Royal Challengers Bangalore,N,normal
+Jaipur,Rajasthan Royals,Mumbai Indians,Rajasthan Royals,field,Rajasthan Royals,N,normal
+Delhi,Delhi Capitals,Punjab Kings,Delhi Capitals,field,Delhi Capitals,N,normal
+Hyderabad,Sunrisers Hyderabad,Kolkata Knight Riders,Sunrisers Hyderabad,field,Sunrisers Hyderabad,N,normal
+Bangalore,Royal Challengers Bangalore,Chennai Super Kings,Chennai Super Kings,field,Royal Challengers Bangalore,N,normal
+Jaipur,Rajasthan Royals,Delhi Capitals,Delhi Capitals,field,Delhi Capitals,N,normal
+Chennai,Chennai Super Kings,Sunrisers Hyderabad,Chennai Super Kings,field,Chennai Super Kings,N,normal
+Bangalore,Royal Challengers Bangalore,Punjab Kings,Punjab Kings,field,Royal Challengers Bangalore,N,normal
+Kolkata,Kolkata Knight Riders,Rajasthan Royals,Rajasthan Royals,field,Rajasthan Royals,N,normal
+Chennai,Chennai Super Kings,Mumbai Indians,Chennai Super Kings,field,Mumbai Indians,N,normal
+Jaipur,Rajasthan Royals,Sunrisers Hyderabad,Rajasthan Royals,field,Rajasthan Royals,N,normal
+Delhi,Delhi Capitals,Royal Challengers Bangalore,Delhi Capitals,bat,Delhi Capitals,N,normal
+Kolkata,Kolkata Knight Riders,Mumbai Indians,Mumbai Indians,field,Kolkata Knight Riders,N,normal
+Hyderabad,Sunrisers Hyderabad,Punjab Kings,Punjab Kings,field,Sunrisers Hyderabad,N,normal
+Bangalore,Royal Challengers Bangalore,Rajasthan Royals,Rajasthan Royals,field,NA,NA,normal
+Chennai,Chennai Super Kings,Delhi Capitals,Delhi Capitals,field,Chennai Super Kings,N,normal
+Mumbai,Mumbai Indians,Sunrisers Hyderabad,Mumbai Indians,bat,Mumbai Indians,Y,normal
+Mohali,Punjab Kings,Kolkata Knight Riders,Kolkata Knight Riders,field,Kolkata Knight Riders,N,normal
+Delhi,Delhi Capitals,Rajasthan Royals,Rajasthan Royals,bat,Delhi Capitals,N,normal
+Bangalore,Royal Challengers Bangalore,Sunrisers Hyderabad,Royal Challengers Bangalore,field,Royal Challengers Bangalore,N,normal
+Mohali,Punjab Kings,Chennai Super Kings,Punjab Kings,field,Punjab Kings,N,normal
+Mumbai,Mumbai Indians,Kolkata Knight Riders,Mumbai Indians,field,Mumbai Indians,N,normal
+Chennai,Mumbai Indians,Chennai Super Kings,Chennai Super Kings,bat,Mumbai Indians,N,normal
+NA,Delhi Capitals,Sunrisers Hyderabad,Delhi Capitals,field,Delhi Capitals,N,normal
+NA,Chennai Super Kings,Delhi Capitals,Chennai Super Kings,field,Chennai Super Kings,N,normal
+Hyderabad,Mumbai Indians,Chennai Super Kings,Mumbai Indians,bat,Mumbai Indians,N,normal
+NA,Mumbai Indians,Chennai Super Kings,Chennai Super Kings,field,Chennai Super Kings,N,normal
+NA,Delhi Capitals,Punjab Kings,Punjab Kings,field,Delhi Capitals,Y,normal
+NA,Kolkata Knight Riders,Royal Challengers Bangalore,Kolkata Knight Riders,bat,Royal Challengers Bangalore,N,normal
+NA,Mumbai Indians,Sunrisers Hyderabad,Sunrisers Hyderabad,field,Sunrisers Hyderabad,N,normal
+NA,Rajasthan Royals,Chennai Super Kings,Chennai Super Kings,field,Rajasthan Royals,N,normal
+NA,Kolkata Knight Riders,Delhi Capitals,Delhi Capitals,field,Kolkata Knight Riders,N,normal
+NA,Punjab Kings,Sunrisers Hyderabad,Sunrisers Hyderabad,field,Punjab Kings,N,normal
+NA,Royal Challengers Bangalore,Mumbai Indians,Mumbai Indians,field,Mumbai Indians,N,normal
+NA,Delhi Capitals,Rajasthan Royals,Rajasthan Royals,field,Delhi Capitals,N,normal
+NA,Kolkata Knight Riders,Chennai Super Kings,Kolkata Knight Riders,bat,Kolkata Knight Riders,N,normal
+NA,Royal Challengers Bangalore,Sunrisers Hyderabad,Sunrisers Hyderabad,field,Sunrisers Hyderabad,N,normal
+NA,Mumbai Indians,Punjab Kings,Punjab Kings,field,Mumbai Indians,N,normal
+NA,Kolkata Knight Riders,Rajasthan Royals,Rajasthan Royals,field,Kolkata Knight Riders,N,normal
+NA,Royal Challengers Bangalore,Delhi Capitals,Delhi Capitals,field,Delhi Capitals,N,normal
+NA,Punjab Kings,Chennai Super Kings,Chennai Super Kings,field,Chennai Super Kings,N,normal
+NA,Sunrisers Hyderabad,Rajasthan Royals,Sunrisers Hyderabad,bat,Rajasthan Royals,N,normal
+NA,Mumbai Indians,Kolkata Knight Riders,Kolkata Knight Riders,field,Mumbai Indians,N,normal
+NA,Chennai Super Kings,Delhi Capitals,Chennai Super Kings,bat,Delhi Capitals,N,normal
+NA,Punjab Kings,Royal Challengers Bangalore,Royal Challengers Bangalore,field,Punjab Kings,N,normal
+NA,Mumbai Indians,Rajasthan Royals,Mumbai Indians,bat,Mumbai Indians,N,normal
+NA,Kolkata Knight Riders,Sunrisers Hyderabad,Sunrisers Hyderabad,field,Kolkata Knight Riders,Y,normal
+NA,Punjab Kings,Chennai Super Kings,Punjab Kings,bat,Chennai Super Kings,N,normal
+NA,Rajasthan Royals,Royal Challengers Bangalore,Rajasthan Royals,bat,Royal Challengers Bangalore,N,normal
+NA,Delhi Capitals,Kolkata Knight Riders,Kolkata Knight Riders,field,Delhi Capitals,N,normal
+NA,Sunrisers Hyderabad,Chennai Super Kings,Sunrisers Hyderabad,bat,Sunrisers Hyderabad,N,normal
+NA,Mumbai Indians,Punjab Kings,Mumbai Indians,bat,Punjab Kings,Y,normal
+NA,Rajasthan Royals,Sunrisers Hyderabad,Sunrisers Hyderabad,field,Sunrisers Hyderabad,N,normal
+NA,Delhi Capitals,Royal Challengers Bangalore,Royal Challengers Bangalore,field,Delhi Capitals,N,normal
+NA,Kolkata Knight Riders,Punjab Kings,Punjab Kings,field,Punjab Kings,N,normal
+NA,Chennai Super Kings,Mumbai Indians,Mumbai Indians,field,Mumbai Indians,N,normal
+NA,Rajasthan Royals,Royal Challengers Bangalore,Rajasthan Royals,bat,Royal Challengers Bangalore,N,normal
+NA,Kolkata Knight Riders,Punjab Kings,Kolkata Knight Riders,bat,Kolkata Knight Riders,N,normal
+NA,Sunrisers Hyderabad,Delhi Capitals,Delhi Capitals,field,Sunrisers Hyderabad,N,normal
+NA,Royal Challengers Bangalore,Chennai Super Kings,Royal Challengers Bangalore,bat,Royal Challengers Bangalore,N,normal
+NA,Kolkata Knight Riders,Mumbai Indians,Kolkata Knight Riders,bat,Mumbai Indians,N,normal
+NA,Punjab Kings,Rajasthan Royals,Rajasthan Royals,field,Rajasthan Royals,N,normal
+NA,Chennai Super Kings,Sunrisers Hyderabad,Chennai Super Kings,bat,Chennai Super Kings,N,normal
+NA,Delhi Capitals,Mumbai Indians,Delhi Capitals,bat,Mumbai Indians,N,normal
+NA,Kolkata Knight Riders,Rajasthan Royals,Rajasthan Royals,field,Kolkata Knight Riders,N,normal
+NA,Royal Challengers Bangalore,Punjab Kings,Royal Challengers Bangalore,bat,Punjab Kings,N,normal
+NA,Sunrisers Hyderabad,Delhi Capitals,Delhi Capitals,field,Sunrisers Hyderabad,N,normal
+NA,Chennai Super Kings,Rajasthan Royals,Chennai Super Kings,bat,Rajasthan Royals,N,normal
+NA,Royal Challengers Bangalore,Sunrisers Hyderabad,Sunrisers Hyderabad,field,Royal Challengers Bangalore,N,normal
+NA,Delhi Capitals,Mumbai Indians,Mumbai Indians,field,Mumbai Indians,N,normal
+NA,Kolkata Knight Riders,Chennai Super Kings,Chennai Super Kings,field,Chennai Super Kings,N,normal
+NA,Punjab Kings,Rajasthan Royals,Rajasthan Royals,field,Rajasthan Royals,N,normal
+NA,Mumbai Indians,Sunrisers Hyderabad,Mumbai Indians,bat,Mumbai Indians,N,normal
+NA,Delhi Capitals,Chennai Super Kings,Chennai Super Kings,field,Delhi Capitals,N,normal
+NA,Royal Challengers Bangalore,Kolkata Knight Riders,Royal Challengers Bangalore,bat,Royal Challengers Bangalore,N,normal
+NA,Mumbai Indians,Rajasthan Royals,Mumbai Indians,bat,Rajasthan Royals,N,normal
+NA,Sunrisers Hyderabad,Punjab Kings,Sunrisers Hyderabad,bat,Sunrisers Hyderabad,N,normal
+NA,Delhi Capitals,Rajasthan Royals,Delhi Capitals,bat,Delhi Capitals,N,normal
+NA,Royal Challengers Bangalore,Chennai Super Kings,Royal Challengers Bangalore,bat,Chennai Super Kings,N,normal
+NA,Sunrisers Hyderabad,Kolkata Knight Riders,Sunrisers Hyderabad,bat,Kolkata Knight Riders,N,normal
+NA,Delhi Capitals,Punjab Kings,Delhi Capitals,bat,Punjab Kings,N,normal
+NA,Royal Challengers Bangalore,Mumbai Indians,Mumbai Indians,field,Royal Challengers Bangalore,Y,normal
+NA,Mumbai Indians,Delhi Capitals,Delhi Capitals,field,Mumbai Indians,N,normal
+NA,Royal Challengers Bangalore,Sunrisers Hyderabad,Sunrisers Hyderabad,field,Sunrisers Hyderabad,N,normal
+NA,Delhi Capitals,Sunrisers Hyderabad,Delhi Capitals,bat,Delhi Capitals,N,normal
+NA,Delhi Capitals,Mumbai Indians,Delhi Capitals,bat,Mumbai Indians,N,normal
+Chennai,Mumbai Indians,Royal Challengers Bangalore,Royal Challengers Bangalore,field,Royal Challengers Bangalore,N,normal
+Mumbai,Chennai Super Kings,Delhi Capitals,Delhi Capitals,field,Delhi Capitals,N,normal
+Chennai,Kolkata Knight Riders,Sunrisers Hyderabad,Sunrisers Hyderabad,field,Kolkata Knight Riders,N,normal
+Mumbai,Punjab Kings,Rajasthan Royals,Rajasthan Royals,field,Punjab Kings,N,normal
+Chennai,Mumbai Indians,Kolkata Knight Riders,Kolkata Knight Riders,field,Mumbai Indians,N,normal
+Chennai,Royal Challengers Bangalore,Sunrisers Hyderabad,Sunrisers Hyderabad,field,Royal Challengers Bangalore,N,normal
+Mumbai,Rajasthan Royals,Delhi Capitals,Rajasthan Royals,field,Rajasthan Royals,N,normal
+Mumbai,Punjab Kings,Chennai Super Kings,Chennai Super Kings,field,Chennai Super Kings,N,normal
+Chennai,Mumbai Indians,Sunrisers Hyderabad,Mumbai Indians,bat,Mumbai Indians,N,normal
+Chennai,Royal Challengers Bangalore,Kolkata Knight Riders,Royal Challengers Bangalore,bat,Royal Challengers Bangalore,N,normal
+Mumbai,Delhi Capitals,Punjab Kings,Delhi Capitals,field,Delhi Capitals,N,normal
+Mumbai,Chennai Super Kings,Rajasthan Royals,Chennai Super Kings,bat,Chennai Super Kings,N,normal
+Chennai,Delhi Capitals,Mumbai Indians,Mumbai Indians,bat,Delhi Capitals,N,normal
+Chennai,Punjab Kings,Sunrisers Hyderabad,Punjab Kings,bat,Sunrisers Hyderabad,N,normal
+Mumbai,Kolkata Knight Riders,Chennai Super Kings,Kolkata Knight Riders,field,Chennai Super Kings,N,normal
+Mumbai,Royal Challengers Bangalore,Rajasthan Royals,Royal Challengers Bangalore,field,Royal Challengers Bangalore,N,normal
+Chennai,Punjab Kings,Mumbai Indians,Punjab Kings,field,Punjab Kings,N,normal
+Mumbai,Rajasthan Royals,Kolkata Knight Riders,Rajasthan Royals,field,Rajasthan Royals,N,normal
+Mumbai,Chennai Super Kings,Royal Challengers Bangalore,Chennai Super Kings,bat,Chennai Super Kings,N,normal
+Chennai,Sunrisers Hyderabad,Delhi Capitals,Delhi Capitals,field,Delhi Capitals,N,normal
+Ahmedabad,Punjab Kings,Kolkata Knight Riders,Kolkata Knight Riders,field,Kolkata Knight Riders,N,normal
+Ahmedabad,Delhi Capitals,Royal Challengers Bangalore,Delhi Capitals,field,Royal Challengers Bangalore,N,normal
+Delhi,Chennai Super Kings,Sunrisers Hyderabad,Sunrisers Hyderabad,bat,Chennai Super Kings,N,normal
+Delhi,Mumbai Indians,Rajasthan Royals,Mumbai Indians,field,Mumbai Indians,N,normal
+Ahmedabad,Delhi Capitals,Kolkata Knight Riders,Delhi Capitals,field,Delhi Capitals,N,normal
+Ahmedabad,Punjab Kings,Royal Challengers Bangalore,Royal Challengers Bangalore,bat,Punjab Kings,N,normal
+Delhi,Mumbai Indians,Chennai Super Kings,Mumbai Indians,field,Mumbai Indians,N,normal
+Delhi,Rajasthan Royals,Sunrisers Hyderabad,Sunrisers Hyderabad,field,Rajasthan Royals,N,normal
+NA,Chennai Super Kings,Mumbai Indians,Chennai Super Kings,bat,Chennai Super Kings,N,normal
+NA,Kolkata Knight Riders,Royal Challengers Bangalore,Royal Challengers Bangalore,bat,Kolkata Knight Riders,N,normal
+NA,Punjab Kings,Rajasthan Royals,Punjab Kings,field,Rajasthan Royals,N,normal
+NA,Delhi Capitals,Sunrisers Hyderabad,Sunrisers Hyderabad,bat,Delhi Capitals,N,normal
+NA,Mumbai Indians,Kolkata Knight Riders,Kolkata Knight Riders,field,Kolkata Knight Riders,N,normal
+NA,Royal Challengers Bangalore,Chennai Super Kings,Chennai Super Kings,field,Chennai Super Kings,N,normal
+NA,Delhi Capitals,Rajasthan Royals,Rajasthan Royals,field,Delhi Capitals,N,normal
+NA,Sunrisers Hyderabad,Punjab Kings,Sunrisers Hyderabad,field,Punjab Kings,N,normal
+NA,Chennai Super Kings,Kolkata Knight Riders,Kolkata Knight Riders,bat,Chennai Super Kings,N,normal
+NA,Royal Challengers Bangalore,Mumbai Indians,Mumbai Indians,field,Royal Challengers Bangalore,N,normal
+NA,Sunrisers Hyderabad,Rajasthan Royals,Rajasthan Royals,bat,Sunrisers Hyderabad,N,normal
+NA,Kolkata Knight Riders,Delhi Capitals,Kolkata Knight Riders,field,Kolkata Knight Riders,N,normal
+NA,Mumbai Indians,Punjab Kings,Mumbai Indians,field,Mumbai Indians,N,normal
+NA,Rajasthan Royals,Royal Challengers Bangalore,Royal Challengers Bangalore,field,Royal Challengers Bangalore,N,normal
+NA,Sunrisers Hyderabad,Chennai Super Kings,Chennai Super Kings,field,Chennai Super Kings,N,normal
+NA,Kolkata Knight Riders,Punjab Kings,Punjab Kings,field,Punjab Kings,N,normal
+NA,Mumbai Indians,Delhi Capitals,Delhi Capitals,field,Delhi Capitals,N,normal
+NA,Rajasthan Royals,Chennai Super Kings,Rajasthan Royals,field,Rajasthan Royals,N,normal
+NA,Royal Challengers Bangalore,Punjab Kings,Royal Challengers Bangalore,bat,Royal Challengers Bangalore,N,normal
+NA,Kolkata Knight Riders,Sunrisers Hyderabad,Sunrisers Hyderabad,bat,Kolkata Knight Riders,N,normal
+NA,Delhi Capitals,Chennai Super Kings,Delhi Capitals,field,Delhi Capitals,N,normal
+NA,Rajasthan Royals,Mumbai Indians,Mumbai Indians,field,Mumbai Indians,N,normal
+NA,Royal Challengers Bangalore,Sunrisers Hyderabad,Royal Challengers Bangalore,field,Sunrisers Hyderabad,N,normal
+NA,Chennai Super Kings,Punjab Kings,Punjab Kings,field,Punjab Kings,N,normal
+NA,Kolkata Knight Riders,Rajasthan Royals,Rajasthan Royals,field,Kolkata Knight Riders,N,normal
+NA,Sunrisers Hyderabad,Mumbai Indians,Mumbai Indians,bat,Mumbai Indians,N,normal
+NA,Royal Challengers Bangalore,Delhi Capitals,Royal Challengers Bangalore,field,Royal Challengers Bangalore,N,normal
+NA,Delhi Capitals,Chennai Super Kings,Chennai Super Kings,field,Chennai Super Kings,Y,normal
+NA,Royal Challengers Bangalore,Kolkata Knight Riders,Royal Challengers Bangalore,bat,Kolkata Knight Riders,Y,normal
+NA,Delhi Capitals,Kolkata Knight Riders,Kolkata Knight Riders,field,Kolkata Knight Riders,Y,normal
+NA,Chennai Super Kings,Kolkata Knight Riders,Kolkata Knight Riders,field,Chennai Super Kings,Y,normal
+NA,Chennai Super Kings,Kolkata Knight Riders,Kolkata Knight Riders,field,Kolkata Knight Riders,N,normal
+NA,Delhi Capitals,Mumbai Indians,Delhi Capitals,field,Delhi Capitals,N,normal
+NA,Punjab Kings,Royal Challengers Bangalore,Punjab Kings,field,Punjab Kings,N,normal
+NA,Gujarat Titans,Lucknow Supergiants,Gujarat Titans,field,Gujarat Titans,N,normal
+NA,Sunrisers Hyderabad,Rajasthan Royals,Sunrisers Hyderabad,field,Rajasthan Royals,N,normal
+NA,Royal Challengers Bangalore,Kolkata Knight Riders,Royal Challengers Bangalore,field,Royal Challengers Bangalore,N,normal
+NA,Lucknow Supergiants,Chennai Super Kings,Lucknow Supergiants,field,Lucknow Supergiants,N,normal
+NA,Kolkata Knight Riders,Punjab Kings,Kolkata Knight Riders,field,Kolkata Knight Riders,N,normal
+NA,Mumbai Indians,Rajasthan Royals,Mumbai Indians,field,Rajasthan Royals,N,normal
+NA,Gujarat Titans,Delhi Capitals,Delhi Capitals,field,Gujarat Titans,N,normal
+NA,Chennai Super Kings,Punjab Kings,Chennai Super Kings,field,Punjab Kings,N,normal
+NA,Sunrisers Hyderabad,Lucknow Supergiants,Sunrisers Hyderabad,field,Lucknow Supergiants,N,normal
+NA,Rajasthan Royals,Royal Challengers Bangalore,Royal Challengers Bangalore,field,Royal Challengers Bangalore,N,normal
+NA,Kolkata Knight Riders,Mumbai Indians,Kolkata Knight Riders,field,Kolkata Knight Riders,N,normal
+NA,Lucknow Supergiants,Delhi Capitals,Lucknow Supergiants,field,Lucknow Supergiants,N,normal
+NA,Punjab Kings,Gujarat Titans,Punjab Kings,field,Gujarat Titans,N,normal
+NA,Chennai Super Kings,Sunrisers Hyderabad,Sunrisers Hyderabad,field,Sunrisers Hyderabad,N,normal
+NA,Royal Challengers Bangalore,Mumbai Indians,Royal Challengers Bangalore,field,Royal Challengers Bangalore,N,normal
+NA,Kolkata Knight Riders,Delhi Capitals,Kolkata Knight Riders,field,Delhi Capitals,N,normal
+NA,Rajasthan Royals,Lucknow Supergiants,Lucknow Supergiants,field,Rajasthan Royals,N,normal
+NA,Sunrisers Hyderabad,Gujarat Titans,Sunrisers Hyderabad,field,Sunrisers Hyderabad,N,normal
+NA,Chennai Super Kings,Royal Challengers Bangalore,Royal Challengers Bangalore,field,Chennai Super Kings,N,normal
+NA,Mumbai Indians,Punjab Kings,Mumbai Indians,field,Punjab Kings,N,normal
+NA,Rajasthan Royals,Gujarat Titans,Rajasthan Royals,field,Gujarat Titans,N,normal
+NA,Sunrisers Hyderabad,Kolkata Knight Riders,Sunrisers Hyderabad,field,Sunrisers Hyderabad,N,normal
+NA,Mumbai Indians,Lucknow Supergiants,Mumbai Indians,field,Lucknow Supergiants,N,normal
+NA,Delhi Capitals,Royal Challengers Bangalore,Delhi Capitals,field,Royal Challengers Bangalore,N,normal
+NA,Punjab Kings,Sunrisers Hyderabad,Sunrisers Hyderabad,field,Sunrisers Hyderabad,N,normal
+NA,Gujarat Titans,Chennai Super Kings,Gujarat Titans,field,Gujarat Titans,N,normal
+NA,Rajasthan Royals,Kolkata Knight Riders,Kolkata Knight Riders,field,Rajasthan Royals,N,normal
+NA,Lucknow Supergiants,Royal Challengers Bangalore,Lucknow Supergiants,field,Royal Challengers Bangalore,N,normal
+NA,Delhi Capitals,Punjab Kings,Delhi Capitals,field,Delhi Capitals,N,normal
+NA,Mumbai Indians,Chennai Super Kings,Chennai Super Kings,field,Chennai Super Kings,N,normal
+NA,Delhi Capitals,Rajasthan Royals,Delhi Capitals,field,Rajasthan Royals,N,normal
+NA,Kolkata Knight Riders,Gujarat Titans,Gujarat Titans,bat,Gujarat Titans,N,normal
+NA,Royal Challengers Bangalore,Sunrisers Hyderabad,Sunrisers Hyderabad,field,Sunrisers Hyderabad,N,normal
+NA,Lucknow Supergiants,Mumbai Indians,Mumbai Indians,field,Lucknow Supergiants,N,normal
+NA,Punjab Kings,Chennai Super Kings,Chennai Super Kings,field,Punjab Kings,N,normal
+NA,Royal Challengers Bangalore,Rajasthan Royals,Royal Challengers Bangalore,field,Rajasthan Royals,N,normal
+NA,Gujarat Titans,Sunrisers Hyderabad,Gujarat Titans,field,Gujarat Titans,N,normal
+NA,Delhi Capitals,Kolkata Knight Riders,Delhi Capitals,field,Delhi Capitals,N,normal
+NA,Punjab Kings,Lucknow Supergiants,Punjab Kings,field,Lucknow Supergiants,N,normal
+NA,Gujarat Titans,Royal Challengers Bangalore,Royal Challengers Bangalore,bat,Gujarat Titans,N,normal
+NA,Rajasthan Royals,Mumbai Indians,Mumbai Indians,field,Mumbai Indians,N,normal
+NA,Delhi Capitals,Lucknow Supergiants,Lucknow Supergiants,bat,Lucknow Supergiants,N,normal
+NA,Sunrisers Hyderabad,Chennai Super Kings,Sunrisers Hyderabad,field,Chennai Super Kings,N,normal
+NA,Kolkata Knight Riders,Rajasthan Royals,Kolkata Knight Riders,field,Kolkata Knight Riders,N,normal
+NA,Gujarat Titans,Punjab Kings,Gujarat Titans,field,Punjab Kings,N,normal
+NA,Royal Challengers Bangalore,Chennai Super Kings,Chennai Super Kings,field,Royal Challengers Bangalore,N,normal
+NA,Delhi Capitals,Sunrisers Hyderabad,Sunrisers Hyderabad,field,Delhi Capitals,N,normal
+NA,Gujarat Titans,Mumbai Indians,Gujarat Titans,field,Mumbai Indians,N,normal
+NA,Punjab Kings,Rajasthan Royals,Punjab Kings,bat,Rajasthan Royals,N,normal
+NA,Lucknow Supergiants,Kolkata Knight Riders,Kolkata Knight Riders,field,Lucknow Supergiants,N,normal
+NA,Sunrisers Hyderabad,Royal Challengers Bangalore,Royal Challengers Bangalore,bat,Royal Challengers Bangalore,N,normal
+NA,Chennai Super Kings,Delhi Capitals,Delhi Capitals,field,Chennai Super Kings,N,normal
+NA,Mumbai Indians,Kolkata Knight Riders,Mumbai Indians,field,Kolkata Knight Riders,N,normal
+NA,Lucknow Supergiants,Gujarat Titans,Gujarat Titans,bat,Gujarat Titans,N,normal
+NA,Rajasthan Royals,Delhi Capitals,Delhi Capitals,field,Delhi Capitals,N,normal
+NA,Chennai Super Kings,Mumbai Indians,Mumbai Indians,field,Mumbai Indians,N,normal
+NA,Royal Challengers Bangalore,Punjab Kings,Royal Challengers Bangalore,field,Punjab Kings,N,normal
+NA,Kolkata Knight Riders,Sunrisers Hyderabad,Kolkata Knight Riders,bat,Kolkata Knight Riders,N,normal
+NA,Chennai Super Kings,Gujarat Titans,Chennai Super Kings,bat,Gujarat Titans,N,normal
+NA,Lucknow Supergiants,Rajasthan Royals,Rajasthan Royals,bat,Rajasthan Royals,N,normal
+NA,Punjab Kings,Delhi Capitals,Punjab Kings,field,Delhi Capitals,N,normal
+NA,Mumbai Indians,Sunrisers Hyderabad,Mumbai Indians,field,Sunrisers Hyderabad,N,normal
+NA,Kolkata Knight Riders,Lucknow Supergiants,Lucknow Supergiants,bat,Lucknow Supergiants,N,normal
+NA,Royal Challengers Bangalore,Gujarat Titans,Gujarat Titans,bat,Royal Challengers Bangalore,N,normal
+NA,Rajasthan Royals,Chennai Super Kings,Chennai Super Kings,bat,Rajasthan Royals,N,normal
+NA,Mumbai Indians,Delhi Capitals,Mumbai Indians,field,Mumbai Indians,N,normal
+NA,Sunrisers Hyderabad,Punjab Kings,Sunrisers Hyderabad,bat,Punjab Kings,N,normal
+NA,Gujarat Titans,Rajasthan Royals,Gujarat Titans,field,Gujarat Titans,Y,normal
+NA,Lucknow Supergiants,Royal Challengers Bangalore,Lucknow Supergiants,field,Royal Challengers Bangalore,Y,normal
+NA,Rajasthan Royals,Royal Challengers Bangalore,Rajasthan Royals,field,Rajasthan Royals,Y,normal
+NA,Gujarat Titans,Rajasthan Royals,Rajasthan Royals,bat,Gujarat Titans,Y,normal
